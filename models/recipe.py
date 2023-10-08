@@ -6,8 +6,11 @@ load_dotenv()
 import firebase_admin
 from firebase_admin import credentials, firestore
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FIREBASE_JSON_PATH = os.path.join(BASE_DIR, 'firebase.json')
+
 # Firebase Setup
-cred = firebase_admin.credentials.Certificate('./firebase.json')
+cred = firebase_admin.credentials.Certificate(FIREBASE_JSON_PATH)
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
@@ -54,8 +57,10 @@ def get_recipe(ingredients, inventory):
 
 def main():
     ingredients, inventory = get_ingredients_to_expire()
-    recipe = get_recipe(ingredients, inventory)
-    print("\nRecipe and Instructions:\n", recipe)
+    print(ingredients)
+    print(inventory)
+    # recipe = get_recipe(ingredients, inventory)
+    # print("\nRecipe and Instructions:\n", recipe)
 
 if __name__ == "__main__":
     main()
