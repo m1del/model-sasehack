@@ -1,41 +1,59 @@
-import torch
-from transformers import AutoTokenizer, AutoModelForMaskedLM
+import os
+import asyncio
+import httpx
+from dotenv import load_dotenv
 
-tokenizer = AutoTokenizer.from_pretrained("distilroberta-base")
-model = AutoModelForMaskedLM.from_pretrained("distilroberta-base")
+# Load variables from .env
+load_dotenv()
 
-def predict_expiration(model, tokenizer, food_item, location, temperature):
-    # Constructing the input sentence
+API_URL = "https://api-inference.huggingface.co/models/distilroberta-base"
+API_TOKEN = os.getenv("API_TOKEN")
+
+headers = {"Authorization": f"Bearer {API_TOKEN}"}
+
+MAX_RETRIES = 5
+RETRY_WAIT_SECONDS = 5
+
+async def query(payload):
+    async with httpx.AsyncClient() as client:
+        for attempt in range(MAX_RETRIES):
+            response = await client.post(API_URL, headers=headers, json=payload)
+            response_json = response.json()
+            
+            # print(f"API Response: {response_json}")
+            
+            if response.status_code == 200 and 'error' not in response_json:
+                return response_json
+            elif 'estimated_time' in response_json:
+                await asyncio.sleep(response_json['estimated_time'])
+            else:
+                await asyncio.sleep(RETRY_WAIT_SECONDS)
+        raise ValueError("Max retries reached. API request failed with status code " + str(response.status_code))
+
+async def predict_expiration(food_item, location, temperature):
     input_sentence = (
         f"I am storing {food_item} in my {location} "
         f"at {temperature} degrees fahrenheit, it will spoil in <mask> days."
     )
-    # Tokenizing
-    inputs = tokenizer(input_sentence, return_tensors='pt', padding=True, truncation=True, max_length=64)
-    inputs = {name: tensor.to(next(model.parameters()).device) for name, tensor in inputs.items()}
+    predictions = await query({"inputs": input_sentence})
     
-    # Get the model output
-    with torch.no_grad():
-        output = model(**inputs)
+    # Find the first numerical prediction
+    for prediction in predictions:
+        token_str = prediction['token_str'].strip()
+        if token_str.isdigit():
+            return token_str
     
-    # Extracting prediction and convert
-    predicted_token_id = torch.argmax(output.logits[0, inputs['input_ids'][0] == tokenizer.mask_token_id])
-    predicted_token = tokenizer.convert_ids_to_tokens([predicted_token_id])[0]
-    predicted_days = ''.join(filter(str.isdigit, predicted_token))
-    
-    # Null checkssss
-    if not predicted_days:
-        predicted_days = "an unknown number of"
-    
-    return predicted_days
+    # null checksss
+    return "an unknown number of"
 
-def main():
+
+async def main():
     food = input("Enter food: ")
     location = input("Enter location: ")
     temperature = input("Enter temperature: ")
-
-    predicted_days = predict_expiration(model, tokenizer, food, location, temperature)
+    
+    predicted_days = await predict_expiration(food, location, temperature)
     print(f"The {food} in the {location} will spoil after approximately {predicted_days} days.")
 
 if __name__ == '__main__':
-    main()
+    asyncio.run(main())
