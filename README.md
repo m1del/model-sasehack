@@ -26,14 +26,14 @@ The BertRegressor model, a custom PyTorch model, utilizes a pre-trained BERT var
 
 ### Installation
 1. Clone the repository
-  ```
-  git clone
-  cd model-sasehack
-  ```
+    ```
+    git clone
+    cd model-sasehack
+    ```
 2. Install the requirements
-   ```
-   conda install -r requirements.txt
-   ```
+    ```
+    conda install -r requirements.txt
+    ```
 
 ### Usage
 - Run the training script, it will produce a model with the training weights as `expiration.pth`, and a tokenizer dir `expiration_tokenizer`/
