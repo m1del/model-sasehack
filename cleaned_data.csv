@@ -1,0 +1,780 @@
+Category_ID,Name,Name_subtitle,Keywords,Pantry_Text,DateOfPurchase_Pantry_Text,Refrigerate_Text,DateOfPurchase_Refrigerate_Text,Refrigerate_After_Opening_Text,Refrigerate_After_Thawing_Text,Freeze_Text,DateOfPurchase_Freeze_Text
+7.0,butter,,butter,,,,1.0-2.0 months,,,,6.0-9.0 months
+7.0,buttermilk,,buttermilk,,,,1.0-2.0 weeks,,,,3.0-3.0 months
+7.0,cheese,"hard such as cheddar, swiss, block parmesan","cheese,cheddar, swiss,parmesan",,,,6.0-6.0 months,3.0-4.0 weeks,,,6.0-6.0 months
+7.0,cheese,parmesan; shredded or grated,"cheese,parmesan,shredded,grated",,,,12.0-12.0 months,,,,
+7.0,cheese,"shredded; cheddar, mozzarella, etc.","cheese,shredded,cheddar,mozzarella",,,,1.0-1.0 months,,,,3.0-4.0 months
+7.0,cheese,processed slices,"cheese,processed slices,slices,slice",,,,3.0-4.0 weeks,,,,
+7.0,cheese,"soft such as brie, bel paese, goat","cheese,brie, bel paese, goat",,,,1.0-2.0 weeks,,,,6.0-6.0 months
+7.0,coffee creamer,liquid refrigerated,"coffee creamer,coffee, creamer,liquid refrigerated",,,,3.0-3.0 weeks,,,,
+7.0,cottage cheese,,"cottage cheese,cheese",,,,2.0-2.0 weeks,1.0-1.0 weeks,,,
+7.0,cream cheese,,,,,,2.0-2.0 weeks,,,,
+7.0,cream,"whipping, ultrapasteurized","cream,whipping,ultrapasteurized",,,,1.0-1.0 months,1.0-1.0 weeks,,,
+7.0,cream,"whipped, sweetened","cream,whipped, sweetened",,,1.0-1.0 days,,,,1.0-2.0 months,
+7.0,cream,half and half,"cream,half",,,,3.0-4.0 days,,,,4.0-4.0 months
+7.0,cream,heavy,"cream,heavy",,,,10.0-10.0 days,,,,3.0-4.0 months
+7.0,cream,light,"cream,light",,,,1.0-1.0 weeks,,,,3.0-4.0 months
+7.0,dips,sour cream based,"dips,sour cream based,sour,cream based,cream,dip",,,,2.0-2.0 weeks,,,,
+7.0,egg substitutes,liquid,"egg substitutes,liquid,egg,substitutes,substitute",,,,7.0-7.0 days,3.0-3.0 days,,,
+7.0,eggnog,commercial,"eggnog,commercial,egg,nog",,,,3.0-5.0 days,,,,6.0-6.0 months
+7.0,eggs,in shell,"eggs,in shell,egg,shell",,,,3.0-5.0 weeks,,,,
+7.0,eggs,"raw whites, yolks","eggs,raw whites, yolks,egg,whites",,,2.0-4.0 days,,,,12.0-12.0 months,
+7.0,eggs,hard boiled cooked,"eggs,egg,hard boiled cooked,boiled,hard boiled",,,1.0-1.0 weeks,,,,,
+7.0,egg dishes,,"egg dishes,egg,dishes",,,3.0-4.0 days,,,,2.0-3.0 months,
+7.0,kefir,fermented milk,"kefir,fermented milk,milk,fermented",,,,1.0-1.0 weeks,1.0-2.0 days,,,
+7.0,margarine,,margarine,,,,6.0-6.0 months,,,,12.0-12.0 months
+7.0,milk,plain or flavored,"milk,plain,flavored,flavor",,,,,,,,3.0-3.0 months
+7.0,pudding,,pudding,,,,,2.0-2.0 days,,,
+7.0,sour cream,,"sour cream,cream,sour",,,,,,,,
+7.0,whipped cream,aerosol can,"whipped cream,cream,aerosol can,can",,,,3.0-4.0 weeks,,,,
+7.0,whipped topping,aerosol can,"whipped topping,topping,aerosol can,can,whipped",,,,3.0-3.0 months,,,,
+7.0,whipped topping,tub,"whipped topping,topping,tub,whipped",,,,2.0-2.0 weeks,,,14.0-14.0 months,
+7.0,yogurt,,yogurt,,,,1.0-2.0 weeks,,,1.0-2.0 months,
+10.0,beef,"rib roast, bone-in","beef,rib roast,bone-in,roast,bone,rib",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,"rib roast; boneless, rolled","beef,rib roast,boneless,rolled,roast,rib",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,round or rump roast,"beef,round,rump roast,roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,"tenderloin, whole","beef,tenderloin,whole",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,"tenderloin, half","beef,tenderloin,half",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,"chuck roast, brisket","beef,chuck roast,roast,brisket",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,steaks,"beef,steaks,steak",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,"stew, cubes","beef,stew, cubes,cube",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,short ribs,"beef,short ribs,ribs,rib",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,beef,ground,"beef,ground",,,,1.0-2.0 days,,,,3.0-4.0 months
+10.0,lamb,"leg, bone-in - small","lamb,leg,bone-in - small,bone-in,bone",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,"leg, bone-in - large","lamb,leg,bone-in - large,bone-in,bone",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,"leg; boneless, rolled","lamb,leg,boneless,rolled,bone",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,crown roast,"lamb,crown roast,roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,shoulder roast or shank leg half,"lamb,shoulder roast,roast,shoulder,shank leg half,half,shank,shank leg,leg",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,cubes for kabobs,"lamb,cubes,kabobs,cube,kabob",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,ground,"lamb,ground",,,,1.0-2.0 days,,,,3.0-4.0 months
+10.0,lamb,"chops, ribs, or loin","lamb,chops,ribs,loin,rib",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,leg steaks,"lamb,leg steaks,steaks,steak,leg",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,"stew meat, pieces","lamb,stew,pieces,stew meat,meat,piece",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,shanks,"lamb,shanks,shank",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,lamb,"breast, rolled","lamb,breast,rolled",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,veal,"shoulder roast, boneless","veal,shoulder,boneless,shoulder roast,roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,veal,"leg rump or round roast, boneless","veal,leg rump,rump,leg,round,round roast,roast,boneless",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,veal,"loin roast, bone-in","veal,loin roast,bone-in,roast,bone,loin",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,veal,ground,"veal,ground",,,,1.0-2.0 days,,,,3.0-4.0 months
+10.0,pork,"loin roast, bone-in","pork,loin roast,bone-in,roast,bone,loin",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,"loin roast, boneless","pork,loin,boneless,loin roast,roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,"loin chops, bone-in","pork,loin chops,bone-in,chops,bone,loin",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,"loin chops, boneless","pork,loin,boneless,loin chops,chops",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,crown roast - small,"pork,roast,crown,crown roast - small,small,crown roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,crown roast - large,"pork,roast,crown,crown roast - large,large,crown roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,tenderloin,"pork,tenderloin",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,tenderloin medallions or loin cubes,"pork,tenderloin,tenderloin medallions,loin cubes,medallion,loin cube,loin,medallions,cube,cubes",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,goat,"tender whole cuts (legs, ribs, shoulder, loin)","goat,tender whole cuts,legs,ribs,shoulder,loin,tender,whole cuts,leg,rib",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,goat,"less tender whole cuts (stew meat, riblets, shanks)","goat,less tender whole cuts,stew meat,stew,meat,riblets,shanks,whole cuts,tender,less tender",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,ribs,"pork,ribs,rib",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,ground,"pork,ground",,,,1.0-2.0 days,,,,3.0-4.0 months
+10.0,pork,shoulder,"pork,shoulder",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,pork,"loin, cubes","pork,loin,cubes,cube",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,venison,"round, rump, loin, or rib roast","venison,rump,round,loin,rib,rib roast,roast",,,,3.0-5.0 days,,,,4.0-12.0 months
+10.0,variety meats,"liver, tongue, chitterlings, etc.","variety meats,liver,tongue,chitterlings,meats,meat,chitterling",,,,1.0-2.0 days,,,,3.0-4.0 months
+10.0,goat,ground,"goat,ground",,,,1.0-2.0 days,,,,3.0-4.0 months
+12.0,bacon,,bacon,,,,1.0-1.0 weeks,1.0-1.0 weeks,,,1.0-1.0 months
+12.0,corned beef,in pouch with pickling juices,"corned beef,pouch,pickling juices,juices,juice",,,,5.0-7.0 days,,,,1.0-1.0 months
+12.0,ham,canned (âkeep refrigeratedâ label),"ham,canned,keep refrigerated,label,refrigerated",,,,6.0-9.0 months,,,,
+12.0,ham,"fully cooked, bone-in, whole","ham,fully cooked,bone-in,whole,cooked,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fully cooked, bone-in, half","ham,fully cooked,bone-in,half,cooked,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fully cooked, slices, half, or spiral cut","ham,fully cooked,slices,half,spiral cut,cooked,slice",,,,3.0-4.0 days,,,,1.0-2.0 months
+12.0,ham,"fully cooked, arm picnic shoulder, boneless","ham,fully cooked,cooked,arm picnic shoulder,boneless,shoulder,arm picnic",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fully cooked, canned, boneless (refrigerated)","ham,fully cooked,cooked,canned,boneless,refrigerated",,,,6.0-9.0 months,3.0-5.0 days,,,1.0-2.0 months
+12.0,ham,"fully cooked, vacuum packed, boneless","ham,fully cooked,cooked,vacuum packed,boneless",,,,2.0-2.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, cook-before-eating, bone-in, whole","ham,fresh,cook-before-eating,bone-in,whole,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, cook-before-eating, bone-in, half","ham,fresh,cook-before-eating,bone-in,half,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, cook-before-eating, shank or butt portion, bone-in","ham,fresh,cook-before-eating,shank,butt portion,bone-in,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, cook-before-eating, arm picnic shoulder, boneless","ham,fresh,cook-before-eating,before-eating,arm picnic shoulder,boneless,arm picnic,shoulder",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, cook-before-eating, shoulder roll (butt), boneless","ham,fresh,cook-before-eating,before-eating,shoulder roll,butt,boneless,roll",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, uncooked, whole leg, bone-in","ham,fresh,uncooked,whole leg,bone-in,cooked,leg,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, uncooked, whole leg, boneless","ham,fresh,uncooked,whole leg,boneless,cooked,leg,bone",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,"fresh, uncooked, half leg, bone-in","ham,fresh,uncooked,half leg,bone-in,bone,leg,cooked",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,ham,country ham (whole or half),"ham,country ham,whole,half",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,hot dogs,,"hot dogs,hot",,,,2.0-2.0 weeks,1.0-1.0 weeks,,,1.0-2.0 months
+12.0,sausage,raw bulk type or patties,"sausage,raw bulk type,patties,raw,patty",,,,1.0-2.0 days,,,,1.0-2.0 months
+12.0,sausage,"fully cooked smoked links, kielbasa","sausage,fully cooked smoked links,kielbasa,smoked links,links,fully cooked,link",,,,1.0-1.0 weeks,,,,1.0-2.0 months
+12.0,sausage,"hard, dry (pepperoni), sliced","sausage,hard,dry,pepperoni,sliced,slice,dry pepperoni",,,,2.0-3.0 weeks,,,,1.0-2.0 months
+13.0,"stuffed, raw pork chops",,"stuffed,raw pork chops,chops,raw pork,pork",,,,1.0-2.0 days,,,,9.0-9.0 months
+13.0,raw kabobs with vegetables,,"raw kabobs,vegetables,kabobs,kabob",,,,1.0-2.0 days,,,,3.0-4.0 months
+11.0,bacon,fully cooked,"bacon,fully cooked,cooked",,6.0-6.0 months,,,5.0-14.0 days,,,
+11.0,ham,shelf-stable cans,"ham,shelf stable cans,cans,shelf stable,shelf,stable,can",,6.0-9.0 months,,,5.0-14.0 days,,,
+11.0,jerky,commercially dried,"jerky,commercially dried,dried",,12.0-12.0 months,,,2.0-3.0 months,,,
+11.0,jerky,homemade,"jerky,homemade",1.0-2.0 months,,1.0-2.0 months,,,,,
+11.0,meat products,canned,"meat products,products,canned,meat,product",,5.0-5.0 years,,,3.0-4.0 days,,,
+11.0,retort pouches or boxes,,"retort pouches,boxes,box,retort,pouch",,,,,3.0-4.0 days,,,
+15.0,chicken,whole,"chicken,whole",,,,1.0-2.0 days,,,,12.0-12.0 months
+15.0,turkey,whole,"turkey,whole",,,,1.0-2.0 days,,,,12.0-12.0 months
+15.0,ground turkey or chicken,,"ground turkey,chicken,turkey",,,,1.0-2.0 days,,,,3.0-4.0 months
+15.0,chicken parts,"breast halves, bone-in","chicken parts,breast halves,bone-in,halves,bone,breast,chicken,half",,,,1.0-2.0 days,,,,9.0-9.0 months
+15.0,chicken parts,"breast halves, boneless","chicken parts,breast halves,boneless,chicken,breast,halves,half,bone",,,,1.0-2.0 days,,,,9.0-9.0 months
+15.0,chicken parts,legs or thighs,"chicken parts,legs,thighs,chicken,leg,thigh",,,,1.0-2.0 days,,,,9.0-9.0 months
+15.0,turkey parts,"breast halves, bone-in","turkey parts,breast halves,bone-in,halves,bone,breast,half,turkey",,,,1.0-2.0 days,,,,9.0-9.0 months
+15.0,turkey parts,"breast halves, boneless","turkey parts,breast,boneless,bone,turkey",,,,1.0-2.0 days,,,,9.0-9.0 months
+15.0,turkey parts,legs or thighs,"turkey parts,legs,thighs,turkey,leg,thigh",,,,1.0-2.0 days,,,,9.0-9.0 months
+15.0,duckling,"domestic or wild, whole","duckling,domestic,wild,whole",,,,1.0-2.0 days,,,,6.0-6.0 months
+15.0,goose,"domestic or wild, whole","goose,domestic,wild,whole",,,,1.0-2.0 days,,,,6.0-6.0 months
+15.0,pheasant,"young, whole","pheasant,young,whole",,,,1.0-2.0 days,,,,6.0-6.0 months
+15.0,quail,whole,"quail,whole",,,,1.0-2.0 days,,,,6.0-6.0 months
+15.0,capon,whole,"capon,whole",,,,1.0-2.0 days,,,,12.0-12.0 months
+15.0,cornish hens,whole,"cornish hens,hens,whole,hen",,,,1.0-2.0 days,,,,12.0-12.0 months
+15.0,giblets,,"giblets,giblet",,,,1.0-2.0 days,,,,3.0-4.0 months
+17.0,"stuffed, raw chicken breasts",,"stuffed,raw chicken breasts,breast,chicken,chicken breasts",,,1.0-2.0 days,,,,9.0-9.0 months,
+17.0,raw kabobs with vegetables,,"raw kabobs,vegetables,kabobs,kabob,vegetable",,,1.0-2.0 days,,,,3.0-4.0 months,
+17.0,turducken,,turducken,,,,,,,,9.0-9.0 months
+14.0,"chicken nuggets, patties",,"chicken nuggets, patties,chicken,nuggets,nugget,patty",,,,,,1-2.0 days,,1.0-3.0 months
+14.0,cooked poultry dishes,,"cooked poultry dishes,poultry dishes,poultry",,,3.0-4.0 days,,,,4.0-6.0 months,
+14.0,fried chicken,,"fried chicken,chicken",,,3.0-4.0 days,,,,4.0-4.0 months,
+25.0,poultry pieces,covered with gravy or broth,"poultry pieces,gravy,broth,poultry,pieces,piece",,,3.0-4.0 days,,,,1.0-2.0 months,
+14.0,rotisserie chicken,,"rotisserie chicken,chicken,rotisserie",,,,3.0-4.0 days,,,,4.0-4.0 months
+16.0,canned chicken,,"canned chicken,chicken,canned,can",,5.0-5.0 years,,,3.0-4.0 days,,,
+16.0,retort pouches or boxes,,"retort pouches,boxes,box,retort,pouch",,,,,3.0-4.0 days,,,
+20.0,lean fish,"cod, flounder, haddock, halibut, sole, etc.","lean fish,cod, flounder,haddock,halibut,sole,fish",,,,1.0-2.0 days,,,,6.0-8.0 months
+20.0,lean fish,"pollock, ocean perch, rockfish, sea trout.","lean fish,pollock,ocean,rockfish, sea,sea trout,fish,ocean perch,perch,trout,rock",,,,1.0-2.0 days,,,,4.0-8.0 months
+20.0,fatty fish,"bluefish, catfish, mackerel, mullet, salmon, tuna, etc.","fatty fish,bluefish,catfish,mackerel,mullet,salmon,tuna,fish,fatty,blue,cat",,,,1.0-2.0 days,,,,2.0-3.0 months
+20.0,caviar,"fresh, in jar","caviar,fresh,jar",,,,1.0-4.0 weeks,2.0-2.0 days,,,
+20.0,cooked fish,all,"cooked fish,fish,all",,,3.0-4.0 days,,,,1.0-2.0 months,
+20.0,surimi seafood,,"surimi seafood,surimi,sea,food",,,,,,,,9.0-9.0 months
+21.0,scallops,,"scallops,scallop",,,,1.0-3.0 days,,,,6.0-18.0 months
+21.0,"shrimp, crayfish",,"shrimp,crayfish,cray,fish",,,,1.0-3.0 days,,,,6.0-18.0 months
+21.0,squid,,squid,,,,1.0-3.0 days,,,,6.0-18.0 months
+21.0,"shucked clams, mussels, and oysters",,"shucked clams,mussels,oysters,clams,clam,mussels,mussel,oyster",,,,3.0-10.0 days,,,,3.0-4.0 months
+21.0,crab meat,fresh,"crab meat,meat,fresh,crab",,,1.0-3.0 days,,,,2.0-4.0 months,
+21.0,crab meat,pasteurized,"crab meat,meat,pasteurized,crab",,,,10.0-12.0 months,3.0-5.0 days,,,4.0-10.0 months
+21.0,crab legs,"king, dungeness, snow","crab legs,king,dungeness,snow,crab,legs,leg",,,,2.0-4.0 days,,,,9.0-12.0 months
+21.0,"live clams, mussels, crab, and oysters",,"live clams,mussels,crab,oysters,clams,clam,mussel,oyster",,,,1.0-2.0 days,,,,2.0-3.0 months
+21.0,fresh whole lobster,live,"fresh whole lobster,lobster,live,whole lobster",,,,1.0-1.0 days,,,,
+21.0,fresh lobster tails,cooked,"fresh lobster tails,tails,cooked,lobster tails,tail",,,,2.0-3.0 days,,,,2.0-4.0 weeks
+21.0,"fresh clams, mussels, oysters",,"fresh clams,clams,oysters,clam,mussels,mussel,oyster",,,,5.0-10.0 days,,,,
+21.0,fresh whole lobster,frozen,"fresh whole lobster,lobster,frozen,whole lobster",,,,1.0-2.0 days,,,,2.0-4.0 weeks
+21.0,cooked shellfish,all,"cooked shellfish,shellfish,fish,cooked",,,3.0-4.0 days,,,,,1.0-3.0 months
+22.0,herring,"glass packed, in wine sauce","herring,glass packed,wine sauce,packed,glass,wine,sauce",,,,4.0-6.0 months,,,,
+22.0,fish,"hot smoked, air pack","fish,hot smoked,air pack,hot,smoked,pack
+",,,,14.0-45.0 days,,,,9.0-12.0 months
+22.0,fish,"hot smoked, vacuum pack","fish,hot smoked,vacuum pack,hot,smoked,vacuum,pack",,,,14.0-45.0 days,,,,6.0-12.0 months
+22.0,fish,"cold smoked, air pack","fish,cold smoked,air pack,cold,smoked,pack",,,,14.0-30.0 days,,,,9.0-12.0 months
+22.0,fish,"cold smoked, vacuum pack","fish,cold smoked,vacuum pack,cold,smoked,vacuum,pack",,,,21.0-30.0 days,,,,9.0-12.0 months
+24.0,tofu,,tofu,,,,1.0-1.0 weeks,,,,5.0-5.0 months
+24.0,miso,,miso,,,,1.0-1.0 years,,,,
+24.0,soy flour,full-fat,"soy flour,full fat,soy,flour,fat",,2.0-2.0 months,,6.0-6.0 months,,,,
+24.0,textured soy protein,(tsp),"textured soy protein,protein,tsp,soy protein,soy",,2.0-2.0 years,,,,,,
+24.0,re-hydrated textured soy protein,(tsp),"re hydrated textured soy protein,protein,tsp,soy,soy protein,textured soy protein,re hydrated ",,3.0-4.0 months,3.0-4.0 days,,,,,
+25.0,leftovers,"with meat, fish, poultry, or egg","leftovers,meat,fish,poultry,egg,leftover",,,3.0-4.0 days,,,,2.0-3.0 months,
+25.0,leftovers,"without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes)","leftover,leftovers,without meat,fish,poultry,egg,cooked vegetables,rice,potatoes,meat,vegetables,potato,vegetable",,,3.0-4.0 days,,,,1.0-2.0 months,
+25.0,leftovers,pizza,"leftovers,pizza",,,3.0-4.0 days,,,,1.0-2.0 months,
+25.0,commercial brand vacuum-packed dinners,with usda seal,"commercial brand vacuum-packed dinners,brand vacuum packed dinners,usda seal,usda,seal,dinners,dinner,vacuum packed,vacuum packed dinner,packed dinner,packed",,,,2.0-2.0 weeks,,,,
+25.0,cooked pasta,,"cooked pasta,pasta",,,3.0-5.0 days,,,,1.0-2.0 months,
+25.0,cooked rice,,"cooked rice,rice",,,4.0-6.0 days,,,,6.0-6.0 months,
+25.0,"fruit, cut",,"fruit,cut",,,,,4.0-4.0 days,,,
+25.0,guacamole,,guacamole,,,3.0-4.0 days,,,,3.0-4.0 months,
+25.0,hummus,"commercial (pasteurized, with preservatives)","hummus,commercial,pasteurized,preservatives,preservative",,,,3.0-3.0 months,7.0-7.0 days,,,
+25.0,hummus,"traditional (no preservatives, not pasteurized)","hummus,traditional,no preservatives,not pasteurized,no preservative,preservatives,preservative,pasteurized",,,7.0-7.0 days,,,,,
+25.0,luncheon meat or poultry,store-sliced,"luncheon meat,poultry,store sliced,meat,luncheon,store,sliced",,,,3.0-5.0 days,,,1.0-2.0 months,
+25.0,main dishes or meals,hot or refrigerated,"main dishes,meals,hot,refrigerated,dishes,dish,meal",,,,3.0-4.0 days,,,2.0-3.0 months,
+25.0,meats,covered with gravy or broth,"meats,gravy,broth,meat",,,3.0-4.0 days,,,,6.0-6.0 months,
+25.0,olives,from olive bar,"olives,bar,olive",,,,2.0-2.0 weeks,,,,
+25.0,pate,,pate,,,,1.0-2.0 days,,,1.0-2.0 months,
+25.0,luncheon meat or poultry,pre-packaged,"luncheon meat,luncheon,meat,poultry,packaged,pre packaged",,,,2.0-2.0 weeks,3.0-5.0 days,,,1.0-2.0 months
+25.0,"soup, stews",,"soup,stews,stew",,,3.0-4.0 days,,,,2.0-3.0 months,
+25.0,casseroles,,"casseroles,casserole",,,3.0-4.0 days,,,,,
+2.0,commercial bread products,"including pan breads, flat breads, rolls, and buns","commercial bread products,pan breads,flat breads,rolls,buns,bread products,bread,products,product,pan,breads,bread,flat,roll,bun",,14.0-18.0 days,,,2.0-3.0 weeks,,,3.0-5.0 months
+9.0,tortillas,flour,"tortillas,tortilla",,3.0-3.0 months,,,3.0-3.0 months,,,6.0-6.0 months
+2.0,commercial cakes and muffins,,"commercial cakes,cake,muffin,muffins",,3.0-7.0 days,,,7.0-10.0 days,,,6.0-6.0 months
+2.0,cheesecake,,"cheesecake,cake,cheese",,,,,5.0-7.0 days,,,3.0-6.0 months
+2.0,cookies,soft,"cookies,soft,cookie",,2.0-3.0 months,,,,,,8.0-12.0 months
+2.0,cookies,crispy,"cookies,crispy,cookie",,4.0-6.0 months,,,,,,8.0-12.0 months
+2.0,dairy filled eclairs,,"dairy filled eclairs,dairy filled,eclairs,ã©clair,dairy",,,,,2.0-3.0 days,,,3.0-3.0 months
+2.0,doughnuts,,"doughnuts,doughnut,dough,nut",,1.0-2.0 days,,,2.0-2.0 days,,,
+2.0,fruit cake,,"fruit cake,fruit,cake",,6.0-6.0 months,,,12.0-12.0 months,,,12.0-12.0 months
+2.0,"pastries, danish",,"pastries,danish,pastry",,5.0-10.0 days,,,14.0-14.0 months,,,
+2.0,cream pies,"banana cream, coconut cream, butterscotch","pies,cream,pie, banana, banana cream,coconut,coconut cream,butterscotch",,,,,3.0-4.0 days,,,
+2.0,chiffon pies,"chocolate, lemon","pies,chiffon,pie,chocolate,lemon,chocolate pie,lemon pie",,,,,1.0-2.0 days,,,
+2.0,fruit pies,"apple, peach, blueberry, apricot, cherry, blackberry","pies,fruit,pie,apple,apple pie,peach,peach pie,blueberry,blueberry pie,cherry,cherry pie,apricot,apricot pie,blackberry,blackberry pie",1.0-2.0 days,,,,1.0-1.0 weeks,,8.0-8.0 months,
+2.0,pies,mincemeat,"pies,mincemeat,pie,meat,mince",2.0-2.0 hours,,,,1.0-1.0 weeks,,8.0-8.0 months,
+2.0,pies,pecan,"pies,pie,pecan",2.0-2.0 hours,,,,3.0-4.0 days,,1.0-2.0 months,
+2.0,pies,pumpkin,"pies,pie,pumpkin",2.0-2.0 hours,,,,3.0-4.0 days,,1.0-2.0 months,
+2.0,quiche,,quiche,2.0-2.0 hours,,,,3.0-5.0 days,,2.0-3.0 months,
+3.0,baking powder,,"baking powder,baking,powder",,6.0-18.0 months,,,,,,
+3.0,baking soda,,"baking soda,soda,baking",,2.0-3.0 years,,,,,,
+3.0,biscuit or pancake mix,,"biscuit,pancake mix,pancake,mix,cake",,9.0-9.0 months,,,,,,
+3.0,"cake, brownie, bread mixes",,"cake,brownie,bread mixes,bread,mixes,mix",,12.0-18.0 months,,,,,,
+3.0,chocolate,"unsweetened and semi-sweet, solid","chocolate,unsweetened,semi sweet,solid,sweet",,1.0-2.0 years,,,,,,
+3.0,cocoa and cocoa mixes,,"cocoa,cocoa mixes,mixes,mix",,,,,,,,
+3.0,cornmeal,"regular, degerminated","cornmeal,regular,degerminated,germinated,germinate,corn,meal",,6.0-12.0 months,,,1.0-1.0 year,,,
+3.0,cornmeal,stone ground or blue,"cornmeal,stone ground,blue,ground,stone,corn,meal",,1.0-1.0 months,,,2.0-4.0 months,,,
+3.0,cornstarch,,"cornstarch,corn,starch",,18.0-24.0 months,,,,,,
+3.0,flour,white,"flour,white",,6.0-12.0 months,,,1.0-1.0 year,,,
+3.0,flour,whole wheat,"flour,whole wheat,wheat",,3.0-6.0 months,,,6.0-8.0 months,,,
+3.0,frosting or icing,,"frosting,icing,frost,ice",,10.0-12.0 months,,,2.0-3.0 weeks,,,
+3.0,gelatin,flavored,"gelatin,flavor,flavored",,10.0-12.0 months,,,,,,
+3.0,gelatin,unflavored,"gelatin,unflavor,unflavored",,3.0-3.0 years,,,,,,
+3.0,oils,olive or vegetable,"oils,olive,vegetable,oil",,6.0-12.0 months,,,4.0-4.0 months,,,
+3.0,nut oils,,"nut oils,nut,oils,oil",,6.0-12.0 months,,,6.0-8.0 months,,,
+3.0,vegetable oil sprays,,"vegetable oil sprays,sprays,oil,vegetable,vegetable oil",,2.0-2.0 years,,,,,,
+3.0,shortening,solid,"shortening,solid",,1.0-2.0 years,,,,,,
+3.0,tamarind paste,,"tamarind paste,paste,tamarind",,6.0-12.0 months,,,2.0-3.0 months,,,
+3.0,chili powder,,"chili powder,powder,chili",,2.0-2.0 years,,,,,,
+3.0,seasoning blends,,"seasoning blends,blends,seasoning,blend",,1.0-2.0 years,,,,,,
+3.0,flavored or herb mixes,,"flavored,herb mixes,herb,flavor,mixes,mix",,6.0-6.0 months,,,,,,
+3.0,garlic,"chopped, commercial jars","garlic,chopped,jars,commercial jars,jar",,8.0-12.0 months,,,,,,
+3.0,herbs,dried,"herbs,dried,herb",,1.0-2.0 years,,,,,,
+3.0,spice/spices,whole,"spice,spices,whole",,3.0-4.0 years,,,,,,
+3.0,spice/spices,ground,"spice,spices,ground",,2.0-3.0 years,,,,,,
+3.0,sugar,brown,"sugar,brown",,,,,,,,
+3.0,sugar,granulated,"sugar,granulated",,,,,,,,
+3.0,sugar,confectioners,"sugar,confectioners,confectioner",,,,,,,,
+3.0,sugar substitutes,,"sugar substitutes,sugar,substitutes,substitute",,2.0-2.0 years,,,,,,
+3.0,tapiocas,,"tapiocas,tapioca",,12.0-12.0 months,,,,,,
+4.0,tube cans,"of biscuits, rolls, pizza dough, etc.","tube cans,biscuits,biscuit,rolls,roll,pizza,pizza dough,dough,tube can,can,tube",,,,,,,,
+4.0,ready-to-bake pie crust,,"ready to bake pie crust,pie,crust,bake,ready",,,,,,,,2.0-2.0 months
+4.0,cookie dough,,"cookie dough,cookie,dough",,,,,,,,2.0-2.0 months
+18.0,apples,,"apples,apple",,3.0-3.0 weeks,,4.0-6.0 weeks,,,8.0-8.0 months,
+18.0,apricots,,"apricots,apricot",,,2.0-5.0 days,,,,,
+18.0,avocados,,"avocados,avocado",,,3.0-4.0 days,,,,,
+18.0,bananas,,"bananas,banana",,,3.0-3.0 days,,,,2.0-3.0 months,
+18.0,berries,"cherries, goose berries, lychee","berries,berry,cherries,cherry,goose berries,goose berry,lychee,gooseberries",,,,7.0-7.0 days,,,12.0-12.0 months,
+18.0,berries,"blackberries, boysenberries, currant","berries,berry,blackberries,blackberry,boysenberries,boysenberry,currant",,,,3.0-6.0 days,,,12.0-12.0 months,
+18.0,blueberries,,"blueberries,blueberry,berries,berry",,,,1.0-2.0 weeks,,,8.0-12.0 months,
+18.0,cherimoya,,cherimoya,,,4.0-4.0 days,,,,10.0-12.0 months,
+18.0,citrus fruit,"lemon, lime, orange, grapefruit, tangerines, clementines","citrus fruit,fruit,citrus,lemon,lime,orange,grape,grapefruit,tangerines,tangerine,clementines,clementine",,10.0-10.0 days,,10.0-21.0 days,,,,
+18.0,coconut,shredded,"coconut,shredded",,1.0-1.0 years,,,8.0-8.0 months,,1.0-1.0 years,
+18.0,coconuts,fresh,"coconuts,coconut,fresh",,1.0-1.0 weeks,,2.0-3.0 weeks,,,,
+18.0,cranberries,,"cranberries,cranberry",,,,2.0-2.0 months,,,12.0-12.0 months,
+18.0,dates,,dates,,2.0-2.0 months,,12.0-12.0 months,,,1.0-2.0 years,
+18.0,grapes,,"grapes,grape",,1.0-1.0 days,,1.0-1.0 weeks,,,1.0-1.0 months,
+18.0,guava,,guava,,,2.0-4.0 days,,,,,
+18.0,kiwi fruit,,"kiwi fruit,kiwi,fruit",,,3.0-6.0 days,,,,,
+18.0,melons,,"melons,melon",,,,2.0-2.0 weeks,2.0-4.0 days,,1.0-1.0 months,
+18.0,"papaya, mango, feijoa, passionfruit, casaha melon",,"papaya,mango,feijoa,passionfruit,casaha melon,melon,fruit,passion",,3.0-5.0 days,,1.0-1.0 weeks,,,6.0-8.0 months,
+18.0,"peaches, nectarines, plums, pears, sapote",,"peaches,nectarines,plums,pears,sapote,peach,nectarine,plum,pear",,,3.0-5.0 days,,,,2.0-2.0 months,
+18.0,pineapple,,pineapple,,,5.0-7.0 days,,,,10.0-12.0 months,
+18.0,plantains,,"plantains,plantain",,,3.0-5.0 days,,,,10.0-12.0 months,
+18.0,pomegranate,,pomegranate,,2.0-5.0 days,,1.0-3.0 months,,,10.0-12.0 months,
+19.0,"artichokes, whole",,"artichokes,artichoke,whole",,1.0-2.0 days,,1.0-2.0 weeks,,,,
+19.0,asparagus,,asparagus,,,,3.0-4.0 days,,,,5.0-5.0 months
+19.0,bamboo shoots,,"bamboo shoots,bamboo,shoots,shoot",,,,2.0-2.0 weeks,5.0-5.0 days,,,
+19.0,beans and peas,"green, fava, lima, soybean, wax, snow, sugar snap","beans,peas,green,fava,lima,soybean,wax,snow,sugar snap,sugar,pea,soya",,,,3.0-5.0 days,,,,8.0-8.0 months
+19.0,beets,,beets,,1.0-1.0 days,,1.0-2.0 weeks,,,,6.0-8.0 months
+19.0,bok choy,,bok choy,,,,2.0-3.0 days,,,,10.0-12.0 months
+19.0,broccoli and broccoli raab (rapini),,"broccoli,broccoli raab,rapini,raab",,,,3.0-5.0 days,,,,10.0-12.0 months
+19.0,brussels sprouts,,"brussels sprouts,brussels,sprouts,sprout,brussel",,,,3.0-5.0 days,,,,10.0-12.0 months
+19.0,cabbage,,cabbage,,,,1.0-2.0 weeks,,,,10.0-12.0 months
+19.0,"carrots, parsnips",,"carrots,parsnips,carrot,parsnip",,,,2.0-3.0 weeks,,,,10.0-12.0 months
+19.0,cauliflower,,cauliflower,,,,3.0-5.0 days,,,,10.0-12.0 months
+19.0,celery,,celery,,,,1.0-2.0 weeks,,,,10.0-12.0 months
+19.0,corn on the cob,,"corn,cob",,,,1.0-2.0 days,,,,8.0-8.0 months
+19.0,cucumbers,,"cucumbers,cucumber",,,,4.0-6.0 days,,,,
+19.0,eggplant,,"eggplant,egg",,1.0-1.0 days,,4.0-7.0 days,,,,6.0-8.0 months
+19.0,garlic,,garlic,,1.0-1.0 months,,3.0-14.0 days,,,,1.0-1.0 months
+19.0,ginger root,,"ginger root,ginger,root",,2.0-5.0 days,,2.0-3.0 weeks,,,,6.0-6.0 months
+19.0,greens,,"greens,green",,,,1.0-4.0 days,,,,10.0-12.0 months
+19.0,herbs,,"herbs,herb",,,,7.0-10.0 days,,,,1.0-2.0 months
+19.0,leeks,,"leeks,leek",,,,1.0-2.0 weeks,,,,10.0-12.0 months
+19.0,lettuce,"iceberg, romaine","lettuce,iceberg,romaine",,,,1.0-2.0 weeks,,,,
+19.0,lettuce,"leaf, spinach","lettuce,leaf,spinach",,,,3.0-7.0 days,,,,
+19.0,mushrooms,,"mushroom,mushrooms",,,,3.0-7.0 days,,,,10.0-12.0 months
+19.0,okra,,okra,,1.0-1.0 days,,2.0-3.0 days,,,,10.0-12.0 months
+19.0,onions,"yellow, white, red, etc.","onions,yellow,white,red,onion",,1.0-1.0 months,,2.0-2.0 months,,,,10.0-12.0 months
+19.0,onions,spring or green,"onions,spring,green,onion",,1.0-1.0 months,,1.0-1.0 weeks,,,,10.0-12.0 months
+19.0,peppers,,"peppers,pepper",,,,4.0-14.0 days,,,,6.0-8.0 months
+19.0,potatoes,,"potatoes,potato",,1.0-2.0 months,,1.0-2.0 weeks,,,10.0-12.0 months,
+19.0,pumpkins,,"pumpkins,pumpkin",,2.0-3.0 months,,3.0-5.0 months,,,,
+19.0,radishes,,"radishes,radish",,,,10.0-14.0 days,,,,
+19.0,rhubarb,,rhubarb,,,,3.0-7.0 days,,,,
+19.0,rutabagas,,rutabagas,,1.0-1.0 weeks,,2.0-3.0 weeks,,,,8.0-10.0 months
+19.0,squash,summer and zucchini,"squash,summer,zucchini",,1.0-5.0 days,,4.0-5.0 days,,,,10.0-12.0 months
+19.0,squash,winter,"squash,winter",,2.0-6.0 weeks,,1.0-3.0 months,,,,10.0-12.0 months
+19.0,tamarind,,tamarind,,1.0-3.0 weeks,,6.0-6.0 months,,,1.0-1.0 years,
+19.0,taro,,taro,,7.0-7.0 days,,2.0-3.0 days,,,,
+19.0,tomatoes,,"tomatoes,tomato",,,,,,,,2.0-2.0 months
+19.0,turnips,,"turnips,turnip",,,,2.0-2.0 weeks,,,,8.0-10.0 months
+19.0,yuca/cassava,,"yuca,cassava",,7.0-7.0 days,,3.0-3.0 days,,,,1.0-2.0 months
+8.0,dough,commercial (bread or cookie),"dough,commercial,bread,cookie",,,3.0-4.0 days,,,,,12.0-12.0 months
+8.0,egg substitutes,,"egg substitutes,egg,substitute,egg substitute",,,3.0-4.0 days,,,,,12.0-12.0 months
+8.0,fish,breaded,"fish,breaded,bread",,,,,,,,18.0-18.0 months
+8.0,fish,raw but headed and gutted,"fish,raw,headed,gutted",,,3.0-4.0 days,,,,,6.0-6.0 months
+8.0,frozen potato products,"fries, hashbrowns, tater tots","frozen potato products,fries,hashbrowns,tater tots,potato products,products,product,frozen potato,hashbrown,tater tot",,,,,,,,12.0-12.0 months
+8.0,frozen pretzels,,"frozen pretzels,frozen,pretzels,pretzel",,,3.0-4.0 days,,,,,9.0-9.0 months
+8.0,fruits,"such as berries, melons","fruits,berries,melons,berry,melon",,,,,,,,10.0-18.0 months
+8.0,ice cream,,"ice cream,ice,cream",,,,,,,,6.0-6.0 months
+8.0,ice pops,,"ice pops,ice,pops,pop",,,,,,,,9.0-9.0 months
+8.0,juice concentrates,,"juice concentrates,juice,concentrate",,,,,,,,2.0-2.0 years
+8.0,lobster tails,,"lobster tails,tail,lobster,lobster tail",,,3.0-4.0 days,,,,,8.0-8.0 months
+8.0,"pancakes, waffles",,"pancakes,waffles,pancake",,,,,,,,3.0-3.0 months
+8.0,sausages,uncooked,"sausages,sausage,uncooked,cooked",,,3.0-4.0 days,,,,,1.0-2.0 months
+8.0,sausages,precooked,"sausages,sausage,precooked,cooked",,,3.0-4.0 days,,,,,1.0-2.0 months
+8.0,"sherbet, sorbet",,"sherbet,sorbet",,,,,,,,9.0-9.0 months
+8.0,"shrimp, shellfish",,"shrimp,shellfish,fish",,,3.0-4.0 days,,,,,12.0-18.0 months
+8.0,soy crumbles and hot dogs,,"soy crumbles,hot dogs,hot dog,soy,soy crumble",,,3.0-4.0 days,,,,,1.0-2.0 months
+8.0,soy meat substitutes,,"soy meat substitutes,soy,meat,soy meat,meat substitutes,substitutes,substitute",,,3.0-4.0 days,,,,,12.0-18.0 months
+8.0,tempeh,,tempeh,,,3.0-4.0 days,,,,,6.0-6.0 months
+8.0,frozen entrees,prepared meals,"tv dinners,entrees,breakfast,dinners,dinner,entry,tv",,,,,,,,12.0-12.0 months
+8.0,vegetables,,"vegetables,vegetable",,,3.0-4.0 days,,,,,10.0-18.0 months
+9.0,fresh pasta,,"fresh pasta,pasta",,,1.0-2.0 days,,,,2.0-2.0 months,
+9.0,beans,dried,"beans,dried",,1.0-2.0 years,,,,,,
+9.0,lentils,dried,"lentils,dried",,1.0-1.0 years,,,,,,
+9.0,pasta,"dry, without eggs","pasta,dry,eggs,egg,without egg,without eggs",,2.0-2.0 years,,,,,,
+9.0,dry egg noodles,,"dry egg noodles,egg noodles,egg,noodles,noodle,dry",,2.0-2.0 years,,,,,,
+9.0,peas,dried split,"peas,pea,dried split,split",,1.0-1.0 years,,,,,,
+9.0,rice,white or wild,"rice,white,wild",,2.0-2.0 years,,,6.0-6.0 months,,,
+9.0,rice,brown,"rice,brown",,1.0-1.0 years,,,6.0-6.0 months,,,
+6.0,barbecue sauce,bottled,"barbecue sauce,sauce,bottled,barbecue",,1.0-1.0 years,,,4.0-4.0 months,,,
+6.0,chutney,,chutney,,1.0-1.0 years,,,1.0-2.0 months,,,
+6.0,"cream sauces, milk solids",,"cream sauces,milk solids,sauce,solids,cream,sauces,milk,solid",,6.0-12.0 months,,,,,,
+6.0,dry gravy mixes,,"dry gravy mixes,gravy,mixes,mix,dry",,2.0-2.0 years,1.0-2.0 days,,,,,
+6.0,gravy,jars and cans,"gravy,jars,cans,jar,can",,2.0-5.0 years,,,1.0-2.0 days,,,
+6.0,honey,,honey,,2.0-2.0 years,,,,,,
+6.0,horseradish,in jar,"horseradish,jar",,,,12.0-12.0 months,3.0-4.0 months,,,
+6.0,"jams, jellies, and preserves",,"jams,jellies,preserves,jam,jelly,preserve",,6.0-18.0 months,,,6.0-12.0 months,,,
+6.0,"ketchup, cocktail, or chili sauce",,"ketchup,cocktail,chili sauce,sauce,chili",,1.0-1.0 years,,,6.0-6.0 months,,,
+6.0,marinades,,"marinades,marinade",,1.0-1.0 years,,,6.0-6.0 months,,,
+6.0,mayonnaise,commercial,"mayonnaise,commercial",,3.0-6.0 months,,,2.0-2.0 months,,,
+6.0,mustard,,mustard,,1.0-2.0 years,,,1.0-1.0 years,,,
+6.0,olives,black and green,"olives,black,green,olive",,12.0-18.0 months,,,2.0-2.0 weeks,,,
+6.0,pickles,,"pickles,pickle",,1.0-1.0 years,,,1.0-3.0 months,,,
+6.0,pesto,jarred,"pesto,jarred,jar",,,,6.0-6.0 months,3.0-3.0 days,,1.0-1.0 months,
+6.0,salad dressings,"commercial, bottled","salad dressings,dressings,dressing,commercial,bottled,bottle,salad",,10.0-12.0 months,,,1.0-3.0 months,,,
+6.0,salsa,picante and taco sauces,"salsa,picante,taco sauces,taco,sauces,sauce",,1.0-1.0 years,,,1.0-1.0 months,,,
+6.0,sauce mixes,"nondairy (spaghetti, taco, etc.)","sauce mixes,sauce,mixes,mix,nondairy,dairy,spaghetti,taco",,2.0-2.0 years,,,,,,
+6.0,spaghetti sauce,in jars,"spaghetti sauce,sauce,in jars,jars,jar,spaghetti",,18.0-18.0 months,,,4.0-4.0 days,,,
+6.0,soy sauce or teriyaki sauce,,"soy sauce,teriyaki sauce,sauce,soy,teriyaki",,3.0-3.0 years,,,1.0-1.0 months,,,
+6.0,vinegar,,vinegar,,2.0-2.0 years,,,,,,
+6.0,worcestershire sauce,,"worcestershire sauce,worcestershire,sauce",,1.0-1.0 years,,,,,,
+1.0,jars or pouches,,"jars,pouches,jar,pouch",,,,,2.0-3.0 days,,,
+1.0,fruit,,fruit,,,,,3.0-3.0 days,,,
+1.0,vegetables,,"vegetables,vegetable",,,,,2.0-2.0 days,,,
+1.0,dinners,,"dinners,dinner",,,,,2.0-2.0 days,,,
+1.0,"cereal, dry mixes",,"cereal,dry mixes,mixes,mix,dry",,,,,,,,
+1.0,formula,prepared,"formula,prepared,prepare",,,,,1.0-1.0 days,,,
+1.0,liquid concentrate or ready-to-feed formula,,"liquid concentrate,ready to feed formula,concentrate,liquid,formula,feed,ready to feed,feed formula",,,,,2.0-2.0 days,,,
+23.0,applesauce,commercial,"applesauce,apple,sauce,commercial",,12.0-18.0 months,,,7.0-10.0 days,,,
+23.0,bacon bits,imitation,"bacon bits,bits,imitation,bacon,bit",,1.0-1.0 years,,,,,,
+23.0,canned goods,"low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)","canned goods,canned,can,goods,low acid,low,meat,poultry,fish,gravy,stew,soups,soup,beans,bean,carrots,carrot,corn,pasta,peas,pea,potatoes,potato,spinach",,2.0-5.0 years,,,3.0-4.0 days,,,
+23.0,canned goods,"high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)","canned goods,canned,can,goods,high acid,high,juices,juice,fruit,fruits,pickles,pickle,sauerkraut,tomato soup,soup,tomato,foods in vinegar based sauce,sauce,foods,food,vinegar based,vinegar",,12.0-18.0 months,,,5.0-7.0 days,,,
+23.0,cereal,ready-to-eat,"cereal,ready,eat",,6.0-12.0 months,,,,,,
+23.0,cereal,"cook before eating (oatmeal, etc.)","cereal,cook before eating,oatmeal,oats,oat,meal",,12.0-12.0 months,,,,,,
+23.0,chocolate syrup,,"chocolate syrup,chocolate,syrup",,2.0-2.0 years,,,6.0-6.0 months,,,
+23.0,crackers,,"crackers,cracker",,8.0-8.0 months,,,3.0-4.0 months,,3.0-4.0 months,
+23.0,graham cracker/animal cracker,,"graham cracker,animal cracker,graham,cracker,animal",,6.0-9.0 months,,,,,,
+23.0,"fruits, dried","raisins, apricots, mangoes, cranberries, etc.","fruits,fruit,dried,raisins,raisin,apricots,apricot,mangoes,mangoe,cranberries,cranberry",,6.0-6.0 months,,,6.0-6.0 months,,,
+23.0,gummy (fruit) snacks,,"fruit snack,gummy,fruit,snacks,snack,gummy snacks,fruit snacks,gummy snack",,6.0-9.0 months,,,,,,
+23.0,marshmallows,,"marshmallows,marshmallow",,1.0-1.0 years,,,,,,
+23.0,marshmallow crã¨me,,"marshmallow crã¨me,marshmallow,crã¨me",,2.0-5.0 months,,,,,,
+23.0,milk,canned evaporated or condensed,"milk,can,canned,evaporated,condensed,evaporate,condense",,12.0-12.0 months,,,4.0-5.0 days,,,
+23.0,molasses,,molasses,,1.0-2.0 years,,,,,,
+23.0,mushrooms,dried,"mushrooms,mushroom,dried",,1.0-2.0 years,,,,,,
+23.0,nuts,jars or cans,"nuts,nut,jar,jars,cans,can",,1.0-1.0 years,,,4.0-6.0 months,,6.0-12.0 months,
+23.0,peanut butter,commercial,"peanut butter,butter,commercial,peanut",,6.0-24.0 months,,,,,,
+23.0,pectin,,pectin,,,,,,,,
+23.0,popcorn,dry kernels in jar,"popcorn,dry kernels in jar,jar,dry kernels,kernels,in jar,kernel,chips,chip",,2.0-2.0 years,,,,,,
+23.0,popcorn,commercially popped in bags,"popcorn,commercially,popped in bags,bags,bag,in bags",,2.0-3.0 months,,,,,,
+23.0,popcorn,microwave packets,"popcorn,microwave packets,packets,microwave,packet",,6.0-12.0 months,,,,,,
+23.0,potato chips,,"potato chips,potato,chips,chip,potatoes",,2.0-2.0 months,,,,,,
+23.0,potatoes,instant,"potatoes,potato,instant",,10.0-15.0 months,,,,,,
+23.0,pretzels,,"pretzels,pretzel",,4.0-9.0 months,,,,,,
+23.0,pudding mixes,,"pudding mixes,pudding,mixes,mix",,1.0-1.0 years,,,,,,
+23.0,soup mixes,dry bouillon,"soup mixes,mixes,mix,soup,dry bouillon,bouillon",,1.0-1.0 years,,,,,,
+23.0,sun dried tomatoes,jar,"sun dried tomatoes,dried tomatoes,sun,sun dried,dried,tomatoes,tomato",,1.0-1.0 years,,,3.0-6.0 months,,,
+23.0,syrup,,syrup,,1.0-1.0 years,,,6.0-6.0 months,,,
+23.0,toaster pastries,,"toaster pastries,pastry,toaster,pastries",,6.0-12.0 months,,,,,,
+5.0,coffee,whole beans,"coffee,whole beans,beans,whole,bean",,3.0-5.0 months,,,3.0-4.0 months,,,
+5.0,coffee,"home ground, non-vacuum","coffee,home ground,non vacuum,ground,home,vacuum",,3.0-5.0 months,,,,,1.0-2.0 years,
+5.0,coffee,instant,"coffee,instant",,1.0-1.0 years,,,,,,
+5.0,diet powder mixes and drink mixes,,"diet powder mixes,drink mixes,mixes,drink,powder mixes,diet powder,mix",,18.0-24.0 months,,,,,,
+5.0,"fruit juice in cartons, fruit drinks, punch",,"fruit juice in cartons,fruit drinks,punch,fruit,fruit juice,juice in cartons,cartons,carton,drinks,drink",,3.0-3.0 weeks,,,8.0-12.0 days,,,
+5.0,"juice, boxes",,"juice, boxes,box",,,,,8.0-12.0 days,,,
+5.0,nectar,"papaya, mango, guava, or guavabana","nectar,papaya,mango,guava,guavabana,mangoes",,12.0-18.0 months,,,,,,
+5.0,soda,"carbonated cola drinks, mixers, diet sodas; bottles or cans","soda,carbonated cola drinks,mixers,diet sodas,bottles,cans,cola drinks,drinks,drink,cola,carbonated,carbonated cola,mixer,diet,sodas,bottle,can",,,,,2.0-3.0 days,,,
+5.0,soy or rice beverage,,"soy,rice beverage,rice,beverage",,,,,7.0-10.0 days,,,
+5.0,tea,bags,"tea,bags,bag",,18.0-36.0 months,,,,,,
+5.0,tea,instant,"tea,instant",,2.0-3.0 years,,,,,,
+5.0,tea,loose,"tea,loose",,2.0-2.0 years,,,,,,
+5.0,water,commercially bottled,"water,commercially bottled,bottled,commercially,bottle,commercial",,,,,,,,
+18.0,kumquats,,kumquats,,,3.0-3.0 weeks,,,,,
+19.0,bagged greens,"leaf, spinach, lettuce, etc.","bagged greens,leaf,spinach,lettuce,bagged,greens,green",,,3.0-5.0 days,,2.0-2.0 days,,,
+6.0,tahini,,tahini,,1.0-1.0 years,,,3.0-3.0 weeks,,,
+25.0,egg salad,,"egg salad,egg,salad",,,3.0-4.0 days,,,,,
+25.0,potato salad,,"potato salad,potato,salad",,,3.0-5.0 days,,,,,
+25.0,seafood salads,"(tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.)","seafood salads,tuna salad, shrimp salad, salmon salad, mixed seafood salad,seafood,salads,salad,tuna,shrimp,salmon,mixed,mixed seafood,seafood salad,",,,3.0-4.0 days,,,,,
+25.0,chicken salad,,"chicken salad,chicken,salad",,,3.0-4.0 days,,,,,
+25.0,ham salad,,"ham salad,ham,salad",,,3.0-4.0 days,,,,,
+25.0,pasta salad,,"pasta salad,pasta,salad",,,3.0-5.0 days,,,,,
+7.0,soy milk,,"soy milk,soy,milk",,,,,7.0-10.0 days,,,
+19.0,yams/sweet potatoes,,"yams,sweet potatoes,potatoes,potato,yam",,2.0-3.0 weeks,,,,,,
+19.0,kale,,kale,,,,3.0-5.0 days,,,,8.0-12.0 months
+9.0,quinoa,uncooked,"quinoa,cooked,uncooked,cook",,2.0-3.0 years,,,,,,
+9.0,quinoa,cooked,"quinoa,cook,cooked",,,6.0-7.0 days,,,,6.0-12.0 months,
+7.0,almond milk,,"almond milk,milk,almond",,,,,7.0-10.0 days,,,
+7.0,rice milk,,"rice milk,rice,milk",,,,,7.0-10.0 days,,,
+7.0,coconut milk,,"coconut milk,coconut,milk",,,,,7.0-10.0 days,,,
+7.0,coffee creamer,powdered,"coffee creamer,creamer,cream,coffee,powdered,powder",,2.0-2.0 years,,,,,,
+14.0,turkey bacon,,"turkey bacon,turkey,bacon",,,,2.0-2.0 weeks,7.0-7.0 days,at least or until best-by date. nan,,2.0-4.0 months
+23.0,fruit cocktail,canned ,"fruit cocktail,cocktail,fruit,canned,can",up to 18.0 months,,,,,,,
+6.0,black bean sauce,,"black bean sauce,sauce,bean,black,black bean,bean sauce",,18.0-24.0 months,,,3.0-6.0 months,,,
+6.0,oyster sauce,,"oyster sauce,oyster,sauce",,18.0-24.0 months,,,3.0-6.0 months,,,
+6.0,hoisin sauce,,"hoisin sauce,sauce,hoisin",,18.0-24.0 months,,,3.0-6.0 months,,,
+12.0,pork roll,,"pork roll,pork,roll",,,,,7.0-7.0 days,,,
+23.0,almonds ,shell,"almonds,almond,shell",,6.0-6.0 months,,16.0-16.0 months,,,,20.0-20.0 months
+23.0,almonds ,no shell,"almonds,almond,no shell,shell",,4.0-4.0 months,,8.0-8.0 months,,,,10.0-10.0 months
+23.0,cashews,no shell,"cashews,cashew,no shell,shell",,2.0-4.0 weeks,,6.0-6.0 months,,,,12.0-12.0 months
+23.0,macadamias,no shell,"macadamias,macadamia,no shell,shell",,2.0-4.0 weeks,,12.0-12.0 months,,,,24.0-24.0 months
+23.0,peanuts,shell,"peanuts,peanut,shell,nut",,4.0-4.0 months,,12.0-12.0 months,,,,24.0-24.0 months
+23.0,peanuts,no shell,"peanuts,peanut,no shell,shell,nut",,4.0-4.0 weeks,,12.0-12.0 months,,,,24.0-24.0 months
+23.0,pecans,shell,"pecans,pecan,shell",,2.0-4.0 weeks,,12.0-12.0 months,,,,24.0-24.0 months
+23.0,pecans,no shell,"pecans,pecan,no shell,shell",,2.0-4.0 weeks,,9.0-9.0 months,,,,24.0-24.0 months
+23.0,pistachios,shell or no shell,"pistachios,shell,no shell,pistachio,pista",,3.0-3.0 weeks,,12.0-12.0 months,,,,24.0-24.0 months
+23.0,walnuts,shell or no shell,"walnuts,shell,no shell,walnut",,2.0-4.0 weeks,,9.0-12.0 months,,,,24.0-24.0 months
+5.0,lime juice,,"lime juice,lime,juice",,12.0-18.0 months,,,2.0-2.0 months,,,
+5.0,lemon juice,,"lemon juice,lemon,juice",,12.0-18.0 months,,,2.0-2.0 months,,,
+2.0,bagel,fresh baked,"bagel,fresh baked,baked",1.0-2.0 days,,,,,,3.0-3.0 months,
+2.0,bagel ,commercially frozen,"bagel,commercially frozen,frozen",,,,,,,3.0-3.0 months,
+2.0,muffin,"homemade - including bran, blueberry, banana, corn, chocolate chip","muffin,homemade including bran,homemade,bran,blueberry,banana,corn,chocolate chip,including bran,chocolate,chip",3.0-7.0 days,,,,,,2.0-3.0 months,
+2.0,muffin,commercially packaged,"muffin,commercially packaged,packaged",3.0-7.0 days,,,,,,3.0-3.0 months,
+2.0,muffin,"mix, dry, commercially packaged","muffin,mix,dry,commercially packaged,packaged,commercially,commercial",9.0-9.0 months,,,,,,,
+23.0,coconut oil,,"coconut oil,coconut,oil",3.0-3.0 years,,,,,,,
+5.0,orange juice,commercially packaged carton,"orange juice,commercially packaged carton,orange,juice,commercially,packaged,carton,packaged carton,commercially packaged,commercial",,,,,7.0-10.0 days,,,8.0-12.0 months
+5.0,orange juice,commercially frozen concentrate,"orange juice,commercially frozen concentrate,orange,juice,commercially,frozen,concentrate,commercially frozen,frozen concentrate",,,,,,,,12.0-12.0 months
+5.0,orange juice,freshly squeezed,"orange juice,orange,juice,freshly squeezed,squeezed,freshly,fresh,sqeeze",,,2.0-3.0 days,,,,2.0-3.0 weeks,
+23.0,roasted red peppers,jar,"roasted red peppers,roasted,red,peppers,jar,roasted red,red peppers,pepper",,,4.0-6.0 months,,,,,
+3.0,whole wheat flour,,"whole wheat flour,whole,wheat,flour,wheat flour,whole wheat",12.0-12.0 months,,2.0-2.0 years,,,,2.0-2.0 years,
+9.0,whole wheat bread,homemade,"whole wheat bread,whole,wheat,bread,homemade,whole wheat,wheat bread",3.0-5.0 days,,,,,,3.0-3.0 months,
+9.0,whole wheat bread,commercially baked & pre-sliced,"whole wheat flour,whole,wheat,flour,wheat flour,whole wheat,commercially baked,pre sliced,sliced,slice,baked,commercially,commercial",3.0-5.0 days,,,,,,3.0-3.0 months,
+5.0,red wine,,"red wine,red,wine",3.0-5.0 years,,,,1.0-3.0 days,at least depending on conditions. nan,,
+5.0,white wine,,"white wine,white,wine",1.0-2.0 years,,,,1.0-3.0 days,at least depending on conditions. nan,,
+23.0,dry stuffing mix,commercially packaged,"dry stuffing mix,dry stuffing,stuffing mix,dry,stuffing,mix,commercially packaged,packaged,commercially,commercial,pack",9.0-12.0 months,,,,,,,
+7.0,powdered milk,,"powdered milk,powdered,milk,powder",3.0-5.0 years,,,,,,,
+23.0,almond butter,,"almond butter,almond,butter",1.0-1.0 years,,,,,,,
+23.0,cashew butter,,"cashew butter,cashew,butter",3.0-3.0 months,,,,,,,
+23.0,salt,"table, plain, or iodized","salt,table,plain,iodized",,,,,,,,
+23.0,black pepper,"ground, dried, commercially bottled or purchased in bulk","black pepper,black,pepper,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,2.0-2.0 years,,,,,,
+23.0,black pepper,"cracked, dried, commercially bottled or purchased in bulk","black pepper,black,pepper,crack,cracked,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,2.0-3.0 years,,,,,,
+23.0,cajun seasoning blend ,"ground, dried, commercially bottled or purchased in bulk","cajun seasoning blend,cajun,seasoning,blend,cajun seasoning,seasoning blend,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,1.0-2.0 years,,,,,,
+23.0,cinnamon,"ground, dried, commercially bottled or purchased in bulk","cinnamon,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,3.0-4.0 years,,,,,,
+23.0,cumin,"ground, dried, commercially bottled or purchased in bulk, opened or unopened","cumin,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase,opened,unopened,open,unopen",,3.0-4.0 years,,,,,,
+23.0,garlic powder,"dried, commercially bottled or purchased in bulk","garlic powder,garlic,powder,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,3.0-4.0 years,,,,,,
+23.0,onion powder ,"dried, commercially bottled or purchased in bulk","onion powder,onion,powder,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,3.0-4.0 years,,,,,,
+23.0,nutmeg,"ground, dried, commercially bottled or purchased in bulk","nutmeg,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",,3.0-4.0 years,,,,,,
+7.0,nacho cheese ,store bought,"nacho cheese,nacho,cheese,store bought,store",,2.0-2.0 years,,,2.0-2.0 weeks,,,3.0-3.0 months
+18.0,star fruit,,"star fruit,fruit,fruits",1.0-1.0 weeks,,,1.0-2.0 weeks,,,10.0-12.0 months,
+18.0,prickly pear ,,"prickly pear,pear,pickle",2.0-5.0 days,,,1.0-2.0 weeks,,,10.0-12.0 months,
+18.0,pitaya/dragon fruit,,"pitaya,dragon fruit,fruit,fruits",2.0-5.0 days,,,2.0-3.0 weeks,,,10.0-12.0 months,
+18.0,strawberries,,"strawberries,strawberry",,,,2.0-3.0 days,,,8.0-12.0 months,
+18.0,raspberries,,"raspberries,raspberry",,,,2.0-3.0 days,,,8.0-12.0 months,
+18.0,cherries,,"cherries,cherry",,,,2.0-3.0 days,,,8.0-12.0 months,
+6.0,broth,homemade,"broth,homemade",,,3.0-4.0 days,,,,2.0-3.0 months,
+6.0,beef broth/stock/consommã© ,commercially produced,"beef broth, beef stock,beef consommã©,consommã©,commercially produced",,,7.0-7.0 days,,3.0-4.0 days,,2.0-3.0 months,
+6.0,chicken broth/stock/consommã© ,commercially produced,"chicken broth,chicken stock,consommã©,commercially produced",,,7.0-7.0 days,,3.0-4.0 days,,2.0-3.0 months,
+6.0,vegetable stock/broth ,commercially produced,"vegetable stock,vegetable broth,broth,commercial vegetable stock,commercial vegetable broth,vegetable",,,7.0-7.0 days,,3.0-4.0 days,,2.0-3.0 months,
+23.0,peanut butter,"commercially produced, containing hydrogenated fat or other stabilizers","peanut butter,butter,commercial peanut butter, hydrogenated fat,fat,stabilizers,stabilizer",,6.0-9.0 months,,12.0-12.0 months,3.0-4.0 months,,,
+23.0,peanut butter,natural,"peanut butter,butter,natural",,,,12.0-12.0 months,3.0-4.0 months,,,
+7.0,ricotta,,ricotta,,,,2.0-2.0 weeks,1.0-1.0 weeks,,,
+19.0,baby carrots,,"baby carrots, carrot,baby carrot",,4.0-4.0 days,,4.0-4.0 weeks,,,3.0-3.0 months,
+19.0,jicama,fresh,"jicama,fresh",,4.0-4.0 months,,2.0-3.0 weeks,,,,
+19.0,kimchi,,kimchi,,,,6.0-12.0 months,,,,
+19.0,kohlrabi,,kohlrabi,,,,1.0-1.0 weeks,,,8.0-12.0 months,
+18.0,watermelon,,watermelon,,1.0-2.0 days,,3.0-4.0 days,,,12.0-12.0 months,
+18.0,cantaloupe,,cantaloupe,,2.0-4.0 days,,5.0-15.0 days,,,12.0-12.0 months,
+18.0,honeydew,,honeydew,,2.0-7.0 days,,3.0-4.0 days,,,12.0-12.0 months,
+9.0,peanuts ,"boiled, shelled","peanuts,boiled, shelled,peanut",,3.0-3.0 years,,,7.0-7.0 days,,,
+9.0,refried beans,,"refried beans,refried bean",,3.0-3.0 years,,,2.0-3.0 days,,,
+6.0,relish,,relish,,30.0-30.0 months,,9.0-9.0 months,,,,
+23.0,tomato paste,,tomato paste,,27.0-27.0 months,,,5.0-5.0 days,,2.0-3.0 months,
+23.0,tapenade,,tapenade,,9.0-9.0 months,,9.0-9.0 months,,,,
+23.0,flaxseed,whole seed,"flaxseed,whole seed,seed",,2.0-2.0 years,,,,,,
+23.0,flaxseed,ground,"flaxseed,ground",,,,12.0-12.0 months,,,12.0-12.0 months,
+19.0,lemongrass,,lemongrass,,,,7.0-9.0 days,,,,6.0-6.0 months
+19.0,cilantro,,cilantro,1.0-2.0 weeks,,2.0-3.0 weeks,,,,,
+19.0,mint,,mint,1.0-2.0 weeks,,2.0-3.0 weeks,,,,,
+19.0,basil,dried,"basil,dried",12.0-12.0 months,,,,,,,
+19.0,basil,fresh,"basil,fresh",5.0-5.0 days,,10.0-10.0 days,,,,,
+19.0,oregano,,oregano,1.0-2.0 weeks,,2.0-3.0 weeks,,,,,
+19.0,rosemary,,rosemary,1.0-2.0 weeks,,2.0-3.0 weeks,,,,,
+19.0,chives,,chives,1.0-2.0 weeks,,2.0-3.0 weeks,,,,,
+19.0,thyme,,thyme,1.0-2.0 weeks,,2.0-3.0 weeks,,,,,
+25.0,turkey ,"pre-packaged, luncheon/deli meat","turkey,pre-packaged,luncheon/deli meat,packaged,luncheon,deli",,,,2.0-2.0 weeks,3.0-5.0 days,,,1.0-2.0 months
+25.0,ham,"pre-packaged, luncheon/deli meat","ham,pre-packaged,luncheon/deli meat,packaged,luncheon,deli",,,,2.0-2.0 weeks,3.0-5.0 days,,,1.0-2.0 months
+25.0,salami ,"pre-packaged, luncheon/deli meat","salami,pre-packaged,luncheon meat,deli meat,packaged,luncheon/deli,pre",,,,2.0-2.0 weeks,3.0-5.0 days,,,1.0-2.0 months
+25.0,chicken,"pre-packaged, luncheon/deli meat","chicken,pre-packaged,luncheon meat,deli meat,packaged",,,,2.0-2.0 weeks,3.0-5.0 days,,,1.0-2.0 months
+25.0,canadian bacon,whole,"canadian bacon,bacon,whole",,,2.0-2.0 weeks,,,,2.0-2.0 months,
+25.0,canadian bacon,sliced,"canadian bacon,bacon,sliced",,,10.0-10.0 days,80.0-80.0 days,,,12.0-12.0 months,
+23.0,canola oil,,"canola oil,canola",,1.0-1.0 years,,,,,,
+23.0,almond oil,,"almond oil,almond",,1.0-1.0 years,,2.0-2.0 years,,,,
+23.0,sunflower oil,,"sunflower oil,oil,sunflower",,1.0-1.0 years,,,,,,
+23.0,grapeseed oil,,"grapeseed oil,grapeseed,oil",,1.0-1.0 years,,,,,,
+6.0,duck fat,,"duck fat,duck",,,30.0-30.0 days,,,,,
+6.0,bacon grease,,"bacon grease,bacon,grease",,,6.0-6.0 months,,,,12.0-12.0 months,
+6.0,frying oil,re-used,"frying oil,re-used oil,oil",,,1.0-1.0 months,,,,6.0-9.0 months,
+3.0,almond extract,,almond extract,2.0-2.0 years,,,,,,,
+3.0,cinnamon extract,,cinnamon extract,2.0-2.0 years,,,,,,,
+3.0,lemon extract,,"lemon extract,lemon",2.0-2.0 years,,,,,,,
+3.0,pure vanilla extract,,"vanilla,vanila extract",2.0-2.0 years,,,,,,,
+3.0,butter flavor,,"butter flavor,butter",2.0-2.0 years,,,,,,,
+3.0,coconut flavor,,"coconut flavor,coconut",2.0-2.0 years,,,,,,,
+23.0,"""genuine"" maple syrup","unopened, glass","genuine maple syrup,syrup,unopened, glass",4.0-4.0 years,,,,,,,
+23.0,"""genuine"" maple syrup","unopened, plastic","genuine maple syrup,syrup,unopened, plastic",2.0-2.0 years,,18.0-24.0 months,,,,,
+5.0,lemon juice,fresh squeezed,"lemon juice,juice,fresh squeezed,squeezed,juices",,,6.0-6.0 days,,,,12.0-12.0 months,
+5.0,apple juice,fresh squeezed,"apple juice,juice,fresh squeezed,squeezed,juices,apple",,,6.0-6.0 days,,,,12.0-12.0 months,
+5.0,carrot juice,fresh squeezed,"carrot juice,juice,fresh squeezed,squeezed,juices",,,6.0-6.0 days,,,,12.0-12.0 months,
+5.0,hard liquors,,"hard liquors,liquor",,,,,,,,
+5.0,cream liquors,unopened,"cream liquors,liquors,unopened,liquor",6.0-8.0 months,,,,,,,
+5.0,coffee,"commercial ground, non-vacuum","coffee,commercial ground, non-vacuum",,2.0-2.0 years,,,1.0-1.0 months,,6.0-12.0 months,
+2.0,macaroons,french,"macaroons,macaroon,french",1.0-2.0 days,,,,,,3.0-3.0 months,
+7.0,milk,lactose-free,"milk,lactose,lactose-free",,,,,1.0-1.0 weeks,,,
+7.0,string cheese,,"string cheese,cheese",,,,5.0-5.0 months,,,,
+7.0,vegan cheddar cheese,,"vegan cheddar cheese,cheese,cheddar",,,,4.0-4.0 months,3.0-7.0 days,,,
+7.0,quark,fresh cheese,"quark,fresh cheese,cheese",,,7.0-10.0 days,,,,,
+19.0,zucchini,"fresh, whole","zucchini,fresh, whole",,,1.0-1.0 weeks,,,,10.0-10.0 months,
+19.0,hot peppers,,"hot peppers,pepper",,,,1.0-1.0 weeks,,,9.0-9.0 months,
+19.0,bean sprouts,,"bean sprouts,bean,sprouts",,,,5.0-10.0 days,,,,
+19.0,swiss chard,,"swiss chard,chard",,,,1.0-2.0 weeks,,,,
+4.0,puff pastry,,"puff pastry,pastry,pastries,puff",,,,,,,12.0-12.0 months,
+4.0,biscuits,refrigerated,"biscuits,biscuits,refrigerated",,,,,,,,
+9.0,tortillas,corn,"tortillas,corn",,25.0-45.0 days,,60.0-90.0 days,,,,
+4.0,pie crust,refrigerated,"pie crust,crust,refrigerated,pie",,,,,,,2.0-2.0 months,
+23.0,granola,,granola,6.0-9.0 months,,,,,,,
+23.0,pork rinds,,"pork rinds,pork,rinds",4.0-4.0 months,,,,,,,
+6.0,apple cider vinegar,,"apple cider vinegar,apple cider, vinegar,cider,apple",,,,,,,,
+5.0,nutrition supplement drinks,canned,"nutrition supplement drinks,drinks,canned,supplement,boost,ensure",,2.0-5.0 years,,,2.0-2.0 days,,,
+6.0,hot sauce,,"hot sauce,sauce",6.0-6.0 months,,,,,,,
+6.0,thai red curry paste,,"thai red curry paste,red curry paste,curry paste,paste,curry",,2.0-2.0 years,,,5.0-5.0 days,,,
+3.0,yeast,packaged,"yeast,packaged",,2.0-2.0 years,,,4.0-4.0 months,,6.0-6.0 months,
+18.0,applesauce,homemade,"applesauce,homemade",,,3.0-3.0 weeks,,,,8.0-12.0 months,
+12.0,pate,meat ,"pate,meat",,,7.0-7.0 days,,,,,
+14.0,pate,poultry,"pate,poultry",,,7.0-7.0 days,,,,,
+6.0,cranberry sauce,canned,"cranberry sauce,sauce,canned",,2.0-2.0 years,,,1.0-2.0 weeks,,,
+6.0,cranberry sauce,homemade,"cranberry sauce,sauce,homemade",,,7.0-10.0 days,,,,,
+5.0,vegetable juice,shelf-stable,"vegetable juice,stable,shelf,shelf-stable",,18.0-18.0 months,,,,,,
+5.0,vegetable juice,"commercial, sold refrigerated","vegetable juice,commercial,refrigerated,vegetable",,,1.0-1.0 months,,,,,
+5.0,vegetable juice,homemade,"vegetable juice,juices,homemade,vegetable",,,,,3.0-5.0 days,,,
+19.0,marinated vegetables,in oil,"marinated vegetables,vegetables,oil,vegetable",,,3.0-4.0 days,,,,,
+8.0,pizza,frozen,"pizza,frozen",,,3.0-4.0 days,,,,12.0-12.0 months,
+25.0,salsa,fresh,"salsa,fresh",,,4.0-7.0 days,,,,,
+23.0,chia seeds,,"chia seeds,chia,seed,seeds",18.0-18.0 months,,,,,,,
+2.0,bread,homemade,"bread,breads,homemade",3.0-5.0 days,,2.0-3.0 months,,,,,
+9.0,amaranth,whole grain,"amaranth,whole grain,grain",4.0-4.0 months,,,,,,8.0-8.0 months,
+3.0,amaranth,"flour, meal","amaranth,flour,meal",2.0-2.0 months,,,,,,4.0-4.0 months,
+9.0,barley,whole grain,"barley,whole grain,grain",6.0-6.0 months,,,,,,12.0-12.0 months,
+3.0,barley,"flour, meal","barley,flour, meal",3.0-3.0 months,,,,,,6.0-6.0 months,
+9.0,buckwheat,whole grain,"buckwheat,whole grain,grain",2.0-2.0 months,,,,,,4.0-4.0 months,
+3.0,buckwheat,"flour, meal","buckwheat,flour, meal,meal",1.0-1.0 months,,,,,,2.0-2.0 months,
+9.0,farro,whole grain,"farro,whole grain,grain",6.0-6.0 months,,,,,,12.0-12.0 months,
+3.0,farro,"flour, meal","farro,flour, meal",3.0-3.0 months,,,,,,6.0-6.0 months,
+9.0,millet,whole grain,"millet,whole grain,grain",2.0-2.0 months,,,,,,4.0-4.0 months,
+3.0,millet,"flour, meal","millet,flour, meal",1.0-1.0 months,,,,,,2.0-2.0 months,
+9.0,oats,whole grain,"oat,oats,whole grain,grain",4.0-4.0 months,,,,,,8.0-8.0 months,
+3.0,oats,"flour, meal","oats,oat,flour, meal",2.0-2.0 months,,,,,,4.0-4.0 months,
+9.0,rye,whole grain,"rye,whole grain,grain",6.0-6.0 months,,,,,,12.0-12.0 months,
+3.0,rye,"flour, meal","rye,flour, meal",3.0-3.0 months,,,,,,6.0-6.0 months,
+9.0,sorghum,whole grain,"sorghum,whole grain,grain",4.0-4.0 months,,,,,,8.0-8.0 months,
+3.0,sorghum,"flour, meal","sorghum,flour, meal",2.0-2.0 months,,,,,,4.0-4.0 months,
+9.0,spelt,whole grain,"spelt,whole grain,grain",6.0-6.0 months,,,,,,12.0-12.0 months,
+3.0,spelt,"flour, meal","spelt,flour, meal",3.0-3.0 months,,,,,,6.0-6.0 months,
+9.0,teff,whole grain,"teff,whole grain,grain",4.0-4.0 months,,,,,,8.0-8.0 months,
+3.0,teff,"flour, meal","teff,flour, meal",2.0-2.0 months,,,,,,4.0-4.0 months,
+10.0,rabbit,"whole, fresh","rabbit,whole, fresh",,,2.0-2.0 days,,,,9.0-9.0 months,
+19.0,spaghetti squash,whole,"spaghetti squash,squash,whole",2.0-2.0 months,,1.0-2.0 weeks,,,,,
+19.0,spaghetti squash,cut,"spaghetti squash,squash,cut",,,4.0-5.0 days,,,,,
+3.0,garam masala,,garam masala,1.0-1.0 years,,,,,,,
+6.0,tomato sauce,"spaghetti, pizza","tomato sauce,sauce,spaghetti, pizza",,,,,3.0-5.0 days,,,
+19.0,cherry tomatoes,,"cherry, tomatoes,tomato",10.0-10.0 days,,5.0-5.0 days,,,,,
+23.0,coconut cream,canned,"coconut cream,coconut,cream,canned,can",,2.0-5.0 years,,,4.0-4.0 days,,3.0-3.0 months,
+23.0,coconut milk,canned,"coconut milk,coconut,milk,canned,can",,2.0-5.0 years,,,4.0-4.0 days,,3.0-3.0 months,
+25.0,coleslaw,"homemade, prepared","coleslaw,homemade,homemade coleslaw,prepared,prepared coleslaw",,,3.0-5.0 days,,,,,
+23.0,pumpkin seeds,"raw, no shell","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6.0-6.0 months,,6.0-6.0 months,,,,,
+23.0,pumpkin seeds,"raw, in-shell","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6.0-6.0 months,,,,,,,
+23.0,pumpkin seeds,"roasted, no-shell","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6.0-6.0 months,,,,,,,
+23.0,pumpkin seeds,"roasted, in-shell","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6.0-6.0 months,,,,,,,
+23.0,sunflower seeds,"raw, unsalted, no shell","sunflower,sunflower seed,sunflower seeds,seed,seeds",12.0-12.0 months,,,,,,,
+23.0,sunflower seeds,"roasted, no shell","sunflower,sunflower seed,sunflower seeds,seed,seeds,kernal,shell",,12.0-12.0 months,,,7.0-8.0 months,,,
+23.0,sunflower seeds,"roasted, salted, in shell","sunflower,sunflower seed,sunflower seeds,seed,seeds",,,,,,,,
+19.0,parsley,fresh,parsley,,,2.0-3.0 days,,,,3.0-4.0 months,
+23.0,sesame oil,,"sesame oil,sesame,oil",,2.0-2.0 years,,,,,,
+23.0,sesame seeds,,"sesame seeds,sesame,seeds,seed",5.0-5.0 years,,,,,,,
+23.0,capers,in jar,"capers,caper,jar capers,in jar,jar",,,,,,,,
+23.0,chocolate hazlenut spread,,"hazelnut spread, spread, hazelnut, chocolate spread, chocolate,nutella,cocoa,cocoa spread",,,,,,,,
+23.0,"roasted nuts (peanuts, cashews, almonds)",,"roasted nuts,roasted,nuts,roasted peanuts,roasted almonds,roasted cashews,almonds,cashews,peanuts",,,,,4.0-4.0 weeks,,,
+23.0,tuna,packet,"tuna packet,tuna,packet,retort,retort packaging",,18.0-18.0 months,,,3.0-4.0 days,,,
+23.0,tuna,canned,"canned tuna,tuna,canned",3.0-3.0 years,,,,,,,
+23.0,seafood,canned,"canned seafood,seafood,canned",1.0-1.0 years,,,,1.0-2.0 days,,,
+7.0,pimento cheese,packaged,"pimento cheese,pimento,cheese",,,,,4.0-4.0 weeks,,,
+10.0,bison,whole,"bison whole,bison,whole",,,3.0-5.0 days,,,,6.0-9.0 months,
+10.0,bison,ground,"ground bison,bison,ground",,,1.0-2.0 days,,,,3.0-4.0 months,
+6.0,salad dressing,creamy,"creamy salad dressing,salad,dressing,salad dressing,creamy",,6.0-6.0 months,,,3.0-4.0 weeks,,,
+6.0,salad dressing,"vinaigrette,homemade","salad dressing,vinaigrette,salad,dressing,homemade",,,2.0-3.0 weeks,,,,,
+6.0,salad dressing,vinaigrette,"salad dressing,vinaigrette,salad,dressing",,6.0-6.0 months,,,4.0-4.0 weeks,,,
+6.0,salad dressing,"dry,packaged","salad dressing,salad,dressing,dry,packaged,package,powdered,powder",,,,,4.0-4.0 weeks,,,
+23.0,grits,boxed,"boxed grits,grits,boxed,box",,12.0-12.0 months,,,,,,
+7.0,cheese curds,"fresh, unaged","cheese curd,cheese,curd,curds,cheese curds",,,2.0-2.0 weeks,,,,4.0-4.0 months,
+25.0,vegetable soup,homemade,"vegetable soup,vegetable,soup",,,3.0-4.0 days,,,,3.0-3.0 months,
+10.0,chorizo,fresh,"fresh chorizo,chorizo",,,1.0-2.0 days,,,,1.0-2.0 months,
+12.0,chorizo,"smoked and processed, uncooked","smoked chorizo,chorizo,processed chorizo,smoked,processed,uncooked,uncooked processed chorizo,uncooked smoked chorizo",,,1.0-1.0 weeks,,,,1.0-2.0 months,
+12.0,chorizo,"smoked and processed, cooked","smoked chorizo,chorizo,processed chorizo,smoked,processed,cooked,cooked processed chorizo,cooked smoked chorizo",1.0-1.0 years,,,,1.0-1.0 months,,6.0-6.0 months,
+23.0,beets,pickled,"pickled beets,beets,pickled",1.0-1.0 years,,,,1.0-2.0 months,,,
+4.0,cinnamon rolls,"unbaked, tube","cinnamon rolls,cinnamon roll,cinnamon,roll,rolls",,,,,,,,
+3.0,cinnamon rolls,baked,"cinnamon rolls,cinnamon roll,cinnamon,roll,rolls",1.0-3.0 days,,,,,,3.0-3.0 months,
+6.0,cooking wine,,"cooking wine,wine,cooking",,,,,,,,
+9.0,bulgur,,bulgur,6.0-12.0 months,,,,,,,
+10.0,bratwurst,fresh,"fresh brautwurst,brautwurst,fresh",,,2.0-3.0 days,,,,2.0-3.0 months,
+12.0,bratwurst,smoked and processed,"smoked brautwurst,processed brautwurst,bratwurst,smoked,processed",,,5.0-7.0 days,,,,2.0-3.0 months,
+19.0,edamame,fresh,"edamame,fresh,fresh edamame,soybeans,soybean",,,4.0-5.0 days,,,,,
+8.0,edamame,frozen,"edamame,frozen,frozen edamame,soybean,soybeans",,,,,,1-1.0 weeks,,2.0-2.0 years
+23.0,edamame,"salted, dry roasted, out of pod","edamame,soybean,soybeans,salted,roasted,dry roasted",12.0-12.0 months,,6.0-6.0 months,,,,,
+23.0,breadcrumbs,commercial,"breadcrumbs,breadcrumb",6.0-6.0 months,,,,,,,
+23.0,milk ,shelf-stable,"shelf stable milk,milk,shelf,stable,uht,ultrapasteurized,aseptic packaging",,6.0-12.0 months,,,5.0-7.0 days,,,
+25.0,salsa,"homemade, fresh","homemade salsa,homemade,salsa",,,5.0-7.0 days,,,,12.0-12.0 months,
+6.0,salsa,"homemade, canned","homemade salsa,homemade,salsa",9.0-12.0 months,,,,,,,
+6.0,tomato sauce,"homemade, canned","homemade tomato sauce,homemade sauce,homemade spaghetti sauce,spaghetti sauce,tomato sauce,homemade",9.0-12.0 months,,,,,,,
+6.0,barbecue sauce,"homemade, canned","homemade barbecue sauce,homemade sauce,homemade bbq sauce,bbq sauce,barbecue sauce",9.0-12.0 months,,,,,,,
+7.0,ghee,,"ghee,clarified butter,clarified,butter",6.0-8.0 months,,1.0-2.0 years,,,,,
+23.0,corn syrup,,"corn syrup,corn,syrup",3.0-3.0 years,,,,,,,
+23.0,nutrition supplement drinks,bottled,"nutrition supplement drinks,drinks,bottled,supplement",,,,,,,,
+23.0,instant breakfast drinks,bottled,"instant breakfast drinks,instant,breakfast,drinks,instant breakfast,instant drink,carnation,bottled instant breakfast drink,bottled instant breakfast,bottled breakfast",6.0-6.0 months,,,,,,,
+23.0,pine nuts,,"pine nuts,pine nut,pine,nut,nuts",2.0-3.0 weeks,,3.0-3.0 months,,,,9.0-9.0 months,
+3.0,coconut flour,,"coconut flour,coconut,flour",,,9.0-12.0 months,,,,9.0-12.0 months,
+23.0,pecans,chopped,"chopped pecans,pecan,pecans,chopped",,,12.0-12.0 months,,,,2.0-2.0 years,
+23.0,polenta,shelf-stable,"polenta,shelf stable,shelf stable polenta",,,,,5.0-7.0 days,,,
+8.0,polenta,frozen,"polenta,frozen,frozen polenta",,,,,,5-5.0 days,12.0-12.0 months,
+23.0,cereal or granola bars,,"bars,bar,granola bars,granola bar,granola,cereal bars,cereal bar,nutrition bars,nutrition bar,energy bars,energy bar,health bars,health bar,fruit bars,fruit bar,snack bars,snack barsnack,,nut bars,nut bar,seed bars,seed bar,crunchy bars,crunchy bar,breakfast,breakfast bar,breakfast bars",6.0-12.0 months,,,,,,,
+23.0,milk ,ultra-pasteurized,"ultra pasteurized milk,milk,pasteurized,ultra",,,1.0-3.0 months,,7.0-10.0 days,,,
+5.0,coconut water,,"coconut water,coconut,water",,12.0-12.0 months,,,1.0-2.0 days,,,
+19.0,celery root,,"celeriac,celery root,celery",,,1.0-1.0 weeks,,,,,
+5.0,apple cider,fresh,"apple cider,apple,cider",2.0-3.0 days,,2.0-3.0 weeks,,,,,
+5.0,yuzu juice,,"yuzu juice,yuzu,juice",,4.0-6.0 months,,9.0-12.0 months,3.0-4.0 months,,1.0-2.0 years,
+5.0,yuzu,"fruit, fresh","yuzu,yuzu fruit",,,5.0-7.0 days,,,,,
+12.0,pastrami,,pastrami,,,40.0-40.0 days,,,,,
+8.0,kugel,commercial,"kugel,commercial,commercial kugel",,,,,,,1.0-1.0 years,
+25.0,kugel,homemade,"kugel,homemade,homemade kugel",,,3.0-4.0 days,,,,1.0-1.0 months,
+23.0,avocado oil,,"avodaco oil,avocado,oil",,2.0-2.0 years,,,,,,
+6.0,balsamic vinegar,,"balsamic vinegar,balsamic,vinegar",,3.0-5.0 years,,,18.0-18.0 months,,,
+6.0,aioli,homemade,"garlic aioli,aioli,garlic,mayonnaise,mayo,garlic mayo,garlic mayonnaise,mayo",,,3.0-4.0 days,,,,,
+6.0,salad dressing,homemade,"homemade salad dressing,homemade,salad dressing,salad,dressing",,,,,2.0-2.0 weeks,,,
+23.0,base,"beef, vegetable","beef base,vegetable base,base,beef,vegetable",,,,,,,,
+6.0,anchovies,canned,"anchovies,anchovy,canned anchovies",5.0-5.0 years,,,,3.0-4.0 days,,2.0-2.0 months,
+19.0,radicchio,,radicchio,,,2.0-3.0 weeks,,,,,
+12.0,prosciutto,,prosciutto,,,2.0-3.0 months,,,,1.0-1.0 months,
+12.0,ham ,"uncured, fresh, cooked","ham,uncured,fresh,cooked,uncured ham,fully cooked,fully cooked uncured ham",,,3.0-4.0 days,,,,3.0-4.0 months,
+10.0,ham ,"uncured, fresh, uncooked","ham,uncured,fresh,uncooked,uncured ham,uncured ham uncooked",,,3.0-5.0 days,,,,6.0-6.0 months,
+19.0,arugula,,"arugula,greens,salad greens,salad",,,3.0-7.0 days,,,,,
+9.0,mung bean,sprouts,"sprouted mung beans,sprouted mung bean,sprout,mung beans,mung bean,mung,bean,mungbean,sprouts",,,4.0-6.0 weeks,,,,,
+9.0,mung bean,"dry, food-grade bags","mung beans,mung bean,mung,bean,dry mung beans,dry,bag,bagged mung beans",1.0-1.0 years,,1.0-1.0 years,,,,1.0-1.0 years,
+9.0,mung bean,"dry, vacuum-sealed","mung beans,mung bean,mung,bean,dry mung beans,dry,vacuum sealed,vacuum sealed mung beans",8.0-10.0 years,,,,,,,
+23.0,croutons,,"croutons,crouton,bread",5.0-6.0 months,,5.0-6.0 months,,,,11.0-12.0 months,
+12.0,bacon,uncured,"uncured bacon,nitrite-free bacon,natural bacon,uncured,nitrite-free,nitrite,natural,bacon",,,4.0-7.0 days,,,,3.0-4.0 weeks,
+23.0,mustard,"dried, ground","mustard,dried mustard,ground mustard,dried ground mustard",6.0-6.0 months,,,,,,1.0-2.0 years,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
