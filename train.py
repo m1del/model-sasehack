@@ -154,7 +154,7 @@ def set_seed(seed_value=42):
 
 def main():
     set_seed()
-    raw_data = load_data('cleaned_data.csv')
+    raw_data = load_data('./data/cleaned_data.csv')
     data, tokenizer = process_data(raw_data)
     
     # Split data, train and val sets
