@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 API_URL = "https://api-inference.huggingface.co/models/distilroberta-base"
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = os.getenv("HF_API_TOKEN")
 
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
 
