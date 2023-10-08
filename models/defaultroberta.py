@@ -2,14 +2,21 @@ import os
 import asyncio
 import httpx
 from dotenv import load_dotenv
+import firebase_admin
+from firebase_admin import credentials, firestore
 
-# Load variables from .env
+# Firebase Setup
+cred = firebase_admin.credentials.Certificate('./firebase.json')
+firebase_admin.initialize_app(cred)
+db = firestore.client()
+
+# Load variables from .env for Hugging Face API
 load_dotenv()
-
 API_URL = "https://api-inference.huggingface.co/models/distilroberta-base"
 API_TOKEN = os.getenv("HF_API_TOKEN")
-
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
+MAX_RETRIES = 5
+RETRY_WAIT_SECONDS = 5
 
 MAX_RETRIES = 5
 RETRY_WAIT_SECONDS = 5

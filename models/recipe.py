@@ -3,6 +3,30 @@ import os
 import readline
 from dotenv import load_dotenv
 load_dotenv()
+import firebase_admin
+from firebase_admin import credentials, firestore
+
+# Firebase Setup
+cred = firebase_admin.credentials.Certificate('./firebase.json')
+firebase_admin.initialize_app(cred)
+
+db = firestore.client()
+
+# Firebase Functions
+def get_ingredients_to_expire():
+    ingredients = []
+    inventory = []
+    ingredients_ref = db.collection(u'food')
+    docs = ingredients_ref.stream()
+    for doc in docs:
+        data = doc.to_dict()
+        expiration_days = int(data['daysTillExpire'])
+        if expiration_days <= 3:
+            ingredients.append(data['name'])
+        else:
+            inventory.append(data['name'])
+    return ingredients, inventory
+
 
 # OpenAI config
 API_KEY = os.getenv("OPENAI_API_KEY")
@@ -15,16 +39,21 @@ def get_recipe(ingredients, inventory):
                    f"You may include other ingredients from my kitchen, such as {inventory} "
                    "and items that are common to most households, like salt, pepper, oregano, and garlic powder. "
                    "What can I make as well as the instructions?")
+    
+    messages = [
+        {"role": "user", "content": prompt_text}
+    ]
 
-    response = openai.Completion.create(
+    response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
-        messages=[{"role": "user", "content": prompt_text}]
+        messages=messages
     )
-    return response.choices[0].message["content"]
+    return response.choices[0].message['content']
+
+
 
 def main():
-    ingredients = input("Enter your ingredients (comma-separated): ")
-    inventory = input("Enter other items from your inventory (comma-separated): ")
+    ingredients, inventory = get_ingredients_to_expire()
     recipe = get_recipe(ingredients, inventory)
     print("\nRecipe and Instructions:\n", recipe)
 
