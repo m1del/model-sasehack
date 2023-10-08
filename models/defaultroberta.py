@@ -51,16 +51,31 @@ async def predict_expiration(food_item, location, temperature):
             return token_str
     
     # null checksss
-    return "an unknown number of"
+    return None
+
+async def update_expirations_in_firestore():
+    # Fetch items without 'daysTillExpire' attribute
+    items_ref = db.collection(u'food').where(u'daysTillExpire', u'==', None).stream()
+
+    for item in items_ref:
+        data = item.to_dict()
+        # Predict the expiration
+        predicted_days = await predict_expiration(data['name'], data.get('location', 'fridge'), data.get('temperature', 'room temperature'))
+        
+        # Update Firestore
+        if predicted_days is not None:  # only update if we got a valid prediction
+            doc_ref = db.collection('food').document(item.id)
+            doc_ref.update({"daysTillExpire": predicted_days})  
 
 
 async def main():
-    food = input("Enter food: ")
-    location = input("Enter location: ")
-    temperature = input("Enter temperature: ")
+    await update_expirations_in_firestore() 
+    # food = input("Enter food: ")
+    # location = input("Enter location: ")
+    # temperature = input("Enter temperature: ")
     
-    predicted_days = await predict_expiration(food, location, temperature)
-    print(f"The {food} in the {location} will spoil after approximately {predicted_days} days.")
+    # predicted_days = await predict_expiration(food, location, temperature)
+    # print(f"The {food} in the {location} will spoil after approximately {predicted_days} days.")
 
 if __name__ == '__main__':
     asyncio.run(main())
