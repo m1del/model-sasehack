@@ -1,8 +1,11 @@
 from flask import Flask, jsonify
 from models.recipe import get_ingredients_to_expire, get_recipe
 from models.defaultroberta import update_expirations_in_firestore
+from flask_cors import CORS
+import asyncio
 
 app = Flask(__name__)
+CORS(app, origins=["http://localhost:3000"])
 
 @app.route("/expiring_ingredients", methods=["GET"])
 def expiring_ingredients_endpoint():
@@ -15,11 +18,11 @@ def get_recipe_endpoint():
     recipe = get_recipe(ingredients, inventory)
     return jsonify({"recipe": recipe})
 
-@app.route("/update_expirations", methods=["POST"])  # Use POST because this endpoint modifies data
+@app.route("/update_expirations", methods=["POST"])
 def update_expirations_endpoint():
     # This endpoint will call the function to update the "daysTillExpire" for each item
     try:
-        update_expirations_in_firestore()
+        asyncio.run(update_expirations_in_firestore())
         return jsonify({"status": "success", "message": "Expirations updated successfully!"}), 200
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
