@@ -7,7 +7,8 @@ from firebase_admin import credentials, firestore
 
 # Firebase Setup
 cred = firebase_admin.credentials.Certificate('./firebase.json')
-firebase_admin.initialize_app(cred)
+if not firebase_admin._apps:
+    firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 # Load variables from .env for Hugging Face API
