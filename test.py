@@ -19,7 +19,7 @@ class BertRegressor(nn.Module):
 
 # Load the model and tokenizer
 model = BertRegressor()
-model.load_state_dict(torch.load('./models/expiration.pth'))
+model.load_state_dict(torch.load('./models/expiration.pth', map_location=torch.device('cpu')))
 model.eval()
 tokenizer = RobertaTokenizer.from_pretrained('./models/expiration_tokenizer/')
 
