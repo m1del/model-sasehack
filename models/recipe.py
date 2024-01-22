@@ -17,18 +17,34 @@ db = firestore.client()
 
 # Firebase Functions
 def get_ingredients_to_expire():
-    ingredients = []
+    ingredients_with_expiration = []  # Will store tuples (ingredient, daysTillExpire)
     inventory = []
     ingredients_ref = db.collection(u'food')
     docs = ingredients_ref.stream()
+    
     for doc in docs:
         data = doc.to_dict()
         expiration_days = int(data['daysTillExpire'])
+        
         if expiration_days <= 3:
-            ingredients.append(data['name'])
+            ingredients_with_expiration.append((data['name'], expiration_days))
         else:
             inventory.append(data['name'])
-    return ingredients, inventory
+    
+    return ingredients_with_expiration, inventory
+# def get_ingredients_to_expire():
+#     ingredients = []
+#     inventory = []
+#     ingredients_ref = db.collection(u'food')
+#     docs = ingredients_ref.stream()
+#     for doc in docs:
+#         data = doc.to_dict()
+#         expiration_days = int(data['daysTillExpire'])
+#         if expiration_days <= 3:
+#             ingredients.append(data['name'])
+#         else:
+#             inventory.append(data['name'])
+#     return ingredients, inventory
 
 
 # OpenAI config
